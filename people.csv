@@ -1,0 +1,1131 @@
+id,f_name,l_name,fam,b_date,b_place,d_date,d_place
+I182543578728,JOHN WESLEY,O'BRIEN,['F337'],,,,
+I182542006990,CASWELL MITCHELL,JONES,"['F101', 'F270', 'F34']",20 Dec 1970,,,
+I182542006991,Caswell M,JONES,"['F4', 'F101']",12 Dec 1942,"New Orleans, Louisiana",17 Sep 2002,
+I182542007088,Thressa Ratliff,() Jones,['F270'],abt 1970,,,
+I182542007346,La Keysha Vermettya,Manning,['F34'],,,,
+I182542007414,Caswell Jonathan,JONES,"['F197', 'F4']",26 Oct 1909,"New Orleans, Louisiana",25 Jan 1958,"Oberlin, Allen, Louisiana, USA"
+I182542007415,Dorothy Mae,MITCHELL,['F4'],abt 1912,Louisiana,,
+I182542007454,Martha Earline,ANDERSON,"['F60', 'F101']",abt 1945,North Carolina,,
+I182542007536,"Frederick ""Freddie""",ANDERSON,"['F311', 'F60']",18 Mar 1920,Louisiana,Oct 1985,
+I182542007538,Maddie Earnline,PERRY,"['F177', 'F60']",abt 1920,,,
+I182542007540,Leona,Anderson,['F60'],abt 1946,North Carolina,,
+I182542007542,Patrica D,Anderson,['F60'],abt 1948,Louisiana,,
+I182542007545,Freddie,Anderson,['F60'],abt 1950,Louisiana,,
+I182542007598,Jonathan Perry,Jones,['F101'],,,5 Dec 2022,
+I182542007833,Jeff,Madison,['F243'],abt 1868,Louisiana,,
+I182542007835,Lilly E,JOHNSON,"['F33', 'F243', 'F197']",abt 1881,Louisiana,20 Nov 1922,"Orleans, Louisiana, USA"
+I182542007837,Robert A,Jones,"['F197', 'F244', 'F110']",5 Jun 1913,"New Orleans, Orleans, Louisiana, USA",,
+I182542007839,Norman,Jones,['F197'],abt 1911,Louisiana,10 Apr 2000,
+I182542007840,George,Jones,['F197'],abt 1909,Louisiana,24 Feb 1932,"New Orleans, Orleans, Louisiana, USA"
+I182542007842,Ruth,Jones,"['F197', 'F236']",abt 1908,Louisiana,,
+I182542007925,Alex,JONES,['F197'],Abt. 1873,,,
+I182542008398,Philip,JOHNSON,"['F213', 'F33']",abt 1856,Louisiana,,
+I182542008399,Celestine Felecie,JOHNSON,"['F278', 'F33']",abt 1868,Louisiana,3 Apr 1943,
+I182542008400,Elenora L,Jones,"['F33', 'F22']",abt 1884,Louisiana,,
+I182542008751,Laura M,Perry,"['F177', 'F184']",abt 1922,Alabama,,
+I182542008752,Lawrence,Perry,['F177'],abt 1922,Alabama,,
+I182542008753,Robert T,Perry,['F177'],abt 1924,Alabama,,
+I182542008754,Still P,PERRY,"['F329', 'F177']",abt 1896,Alabama,11 Dec 1962,"Richmond, Virginia, USA"
+I182542008755,Isselene,HUNTER,"['F153', 'F177']",5 Apr 1901,", North Carolina, United States",30 Apr 1972,"Durham, Durham, North Carolina, USA"
+I182542009129,Alexander,PERRY,['F329'],,,,
+I182542009130,Mattie,WALKER,['F329'],,,,
+I182542009291,,Neal,['F184'],,,,
+I182542009301,Selena M,Neal,['F184'],abt 1949,North Carolina,,
+I182542018339,Wiley,ANDERSON,"['F312', 'F311']",Aug 1894,"Louisiana, USA",Bef. Aug 1943,
+I182542018381,Martha,BLAVIA,"['F291', 'F311']",abt 1893,Louisiana,,
+I182542019379,Wiley,ANDERSON,['F312'],Dec 1857,"Louisiana, USA",,
+I182542019381,Celina,SMITH,['F312'],Jan 1862,"Louisiana, USA",,
+I182542019382,William,Anderson,['F312'],1890,Louisiana,,
+I182542019383,Norman\Northen,Anderson,['F312'],Nov 1891,"Louisiana, USA",,
+I182542019384,Frederick,Anderson,['F312'],Sep 1897,"Louisiana, USA",,
+I182542019385,Sadie,Anderson,['F312'],1902,Louisiana,,
+I182542019388,Whitney,Anderson,['F312'],1905,Louisiana,,
+I182542019389,Gertrude,Anderson,['F312'],1908,Louisiana,,
+I182542019893,Nillie,Anderson,['F312'],Dec 1888,"Louisiana, USA",,
+I182542029992,Rebecca,Anderson,['F311'],abt 1917,Louisiana,,
+I182542029994,Buelah,Anderson,['F311'],abt 1918,Louisiana,,
+I182542029996,Sidney,Anderson,['F311'],abt 1922,Louisiana,,
+I182542029998,Joseph,Anderson,['F311'],abt 1924,Louisiana,,
+I182542030693,Amaelio,BLAVIA,['F291'],,,,
+I182542030705,Marie,BANTHELEY,['F291'],,,,
+I182542102549,Aline,Perry,['F177'],abt 1921,Alabama,,
+I182542102786,William H,HUNTER,['F153'],1859,Alabama,,
+I182542102787,Laura,TREMBEL,['F153'],1861,Alabama,,
+I182542102788,C Olivia,Hunter,['F153'],1890,Alabama,,
+I182542102789,Arwilda,Hunter,['F153'],1892,Alabama,,
+I182542102790,Robert Thomas,Hunter,"['F153', 'F132']",7 Jul 1900,"Montgomery, Alabama, United States",6 Jun 1964,"Lincolnton, Lincoln, North Carolina, USA"
+I182542104903,Gladys H,Hunter,['F132'],,,,
+I182542106148,Dorietta,Jones,['F4'],Abt. 1949,Louisiana,,
+I182542124756,,Watkins,['F22'],,,,
+I182542124793,Marshall S,Johnson,['F33'],,,,
+I182542124912,Eloise,Watkins,"['F22', 'F292']",abt 1911,Louisiana,,
+I182542124956,,Linnes,['F292'],,,,
+I182542124999,,Davis,['F236'],,,,
+I182542125640,Philip,JOHNSON,['F213'],,,,
+I182542125655,Sarah,() JOHNSON,['F213'],,,,
+I182542125710,Nase,JOHNSON,['F278'],,,,
+I182542125728,Harriet,() JOHNSON,['F278'],,,,
+I182542135077,Vercy Lee,JONES,"['F59', 'F325']",24 Nov 1965,,,
+I182542135215,Tracey Deanne,PATTERSON,"['F338', 'F325']",14 May 1968,"Alameda, California",,
+I182542135310,Vercy Lee,JONES,['F59'],,,,
+I182542142195,VERCY LEE,JONES,['F325'],5 Apr 1995,"Alameda, Alameda, California, USA",,
+I182542142437,Sherry D,ALLEN,['F338'],4 Jun 1949,,,
+I182542144848,Eloise,() JONES,['F59'],Jun 1930,,,
+I182542288740,Eunice,Williams,"['F354', 'F244']",,,,
+I182542288780,Leola,Williams,['F354'],,,,
+I182542288814,Epson,() Williams,['F354'],,,,
+I182542289277,Juanita,Hadley,"['F206', 'F110']",,,,
+I182542289506,Thomas,Hadley,['F206'],,,,
+I182542289518,Evelyn,Lymore,['F206'],,,,
+I182542648116,Marvin Leonn,PATTERSON,"['F157', 'F338', 'F199', 'F365']",23 Oct 1945,"Alameda, California",,
+I182542648718,,HINTON,['F157'],,,,
+I182542648781,,PATTERSON,['F157'],,,,
+I182542648897,Linda L,Oliver,"['F279', 'F199', 'F200', 'F397']",26 Dec 1949,"St Paul, Ramsey, Minnesota, USA",4 Sep 2017,
+I182542649312,Carla Y,Patterson,"['F338', 'F15']",13 Apr 1971,"Alameda, California",,
+I182542649342,Nicole,Patterson,['F338'],,,,
+I182542649391,Marvin,Love,['F365'],,,,
+I182542649424,Ray,Dennis,['F15'],,,,
+I182542649757,Rhonda,() Palmer,"['F397', 'F182']",,,,
+I182542649865,"Andrea ""Nicci""",Jones,['F200'],,,,
+I182542649897,,Palmer,['F182'],,,,
+I182542649989,,Jones,['F200'],,,,
+I182542650012,Leonard,Oliver,['F279'],,,,
+I182542650019,Louise,() Oliver,['F279'],,,,
+I182542663483,RANDELL C,JOHNSON,['F163'],6 Apr 1961,"California, USA",,
+I182542665176,Randell Naphtali,JOHNSON,"['F252', 'F163']",9 Apr 1923,"Pella, Wise County, Texas, USA",11 Apr 1987,"Alvord, Wise, Texas, USA"
+I182542665295,Velma Louise,CAMPBELL,"['F87', 'F163']",1938,,,
+I182542673602,Clarence Horton,JOHNSON,"['F351', 'F252']",9 Feb 1886,"New Harp, Montague County, Texas, United States of America",9 Nov 1982,"Decatur, Wise, Texas, USA"
+I182542673890,Syreptha Eaton,LYNCH,"['F81', 'F252']",13 Feb 1885,Alabama,21 Mar 1955,"Alvord, Wise, Texas, USA"
+I182542673891,Aldean,Johnson,['F252'],22 Oct 1912,"Forestburg M, Texas",2 Mar 1996,
+I182542673896,Lula M,Johnson,['F252'],abt 1919,Texas,,
+I182542673897,Suvdia Yvonne,Johnson,"['F252', 'F242']",abt 1921,Texas,,
+I182542673898,Jackie L,Johnson,['F252'],abt 1928,Texas,,
+I182542674937,Randolph,JOHNSON,"['F350', 'F351']",23 July 1855,"Alabama, United States of America",23 Dec 1930,"Alvord, Wise, Texas, USA"
+I182542674938,Dora H,PARNELL,"['F155', 'F351']",14 April 1862,Mississippi,19 February 1886,"New Harp, Montague County, Texas, United States of America"
+I182542675174,Naphtali,Lynch,"['F19', 'F81']",abt 1855,Alabama,,
+I182542675175,Margaret Elminia,McCLENDON,"['F122', 'F81']",Oct 1862,"Alabama, USA",,
+I182542675498,,Mosur,['F242'],,,,
+I182542675724,William C G,Lynch,['F81'],Jun 1888,"Alabama, USA",,
+I182542675725,Nepliaracio,Lynch,['F81'],Mar 1890,"Alabama, USA",,
+I182542675726,Katie P,Lynch,['F81'],Nov 1892,"Alabama, USA",,
+I182542675727,Robert S,Lynch,['F81'],Nov 1894,"Texas, USA",,
+I182542675728,Fannie Alma,Lynch,"['F81', 'F331']",14 Feb 1897,"Alvord, Texas / Indian Territory",30 Oct 1978,"Decatur, Wise, Texas, USA"
+I182542675729,Girtrude,Lynch,['F81'],Mar 1898,"Texas, USA",,
+I182542675730,Henry C,Lynch,['F81'],Apr 1900,"Texas, USA",,
+I182542682192,Darius,LYNCH,"['F360', 'F19']",Dec 1810,Tennessee,,
+I182542682562,Sarepta,Lynch,['F360'],abt 1819,Alabama,,
+I182542682680,Charles,Lynch,['F19'],abt 1852,Alabama,,
+I182542682712,Jobe,Lynch,['F19'],abt 1853,Alabama,,
+I182542691236,Zachariah C,JOHNSON,['F350'],Mar 1819,Tennessee,,
+I182542691326,Melissa E,WALKER,['F350'],Nov 1835,"Alabama, USA",,
+I182542691403,Mary,Johnson,['F350'],abt 1856,Alabama,,
+I182542691424,Benjamin F,Johnson,"['F350', 'F24']",abt 1859,Alabama,,
+I182542691870,Sarah M,Johnson,['F350'],May 1871,"Alabama, USA",,
+I182542692277,Louis F,Johnson,['F350'],Abt 1861,Alabama,,
+I182542692278,Jesse D,Johnson,['F350'],Abt 1864,Alabama,,
+I182542692279,Nancy L,Johnson,['F350'],Abt 1866,Alabama,,
+I182542692281,Eliza C,Johnson,['F350'],Abt 1869,Alabama,,
+I182542692454,Mary I,Johnson,['F24'],Abt 1861,Alabama,,
+I182542692455,Joseph Z,Johnson,['F24'],Jun Abt 1879,Alabama,,
+I182542693682,James,PARNELL,['F155'],abt 1823,Georgia,,
+I182542693683,"Mary A ""Polly""",HERRING,['F155'],abt 1839,Georgia,,
+I182542693685,Sam S,Parnell,['F155'],abt 1857,Ala,,
+I182542693687,Mary A,Parnell,['F155'],abt 1859,Ala,,
+I182542693689,Laura,Parnell,['F155'],abt 1862,Ala,,
+I182542693692,James,Parnell,['F155'],abt 1864,Ala,,
+I182542693695,Maggie,Parnell,['F155'],abt 1868,Texas,,
+I182542694302,,Beare,['F331'],,,,
+I182542694320,Byron,Beare,['F331'],,,,
+I182542694764,Jasper,McCLENDON,"['F141', 'F122']",Abt 1832,Alabama,,
+I182542694767,Laura Jane,TUCKER,['F122'],Abt 1845,Alabama,,
+I182542694772,Palmira,McClendon,['F122'],Abt 1860,Alabama,,
+I182542694774,Jas W,McClendon,['F122'],Abt 1868,Alabama,,
+I182542694775,Lovey,McClendon,['F122'],Abt 1869,Alabama,,
+I182542694778,Elizabeth,McClendon,['F122'],Abt 1871,Alabama,,
+I182542694784,Joannah,McClendon,['F122'],Abt 1873,Alabama,,
+I182542694786,George B,McClendon,['F122'],Abt 1875,Alabama,,
+I182542694788,Stanford,McClendon,['F122'],Abt 1878,Alabama,,
+I182542696770,,LYNCH,['F360'],,,,
+I182542697294,Francis,Lynch,['F19'],abt 1848,Alabama,,
+I182542697295,Nancy,GIBSON,['F19'],abt 1824,Alabama,,
+I182542699127,LLOYD,O'STEEN,['F265'],28 Aug 1957,"Lakeland, Polk, Florida, USA",,
+I182542699183,R V,O'STEEN,"['F95', 'F265']",Abt. 1925,Florida,1999,"Tampa, Hillsborough, Florida, USA"
+I182542699233,Helen Louise,DEAN,"['F268', 'F265', 'F371']",27 Jul 1934,"Branchville, Alabama",23 Oct 2005,
+I182542699648,Rufus,O'STEEN,"['F250', 'F95']",abt 1889,Florida,,
+I182542699649,Claribel,() O'STEEN,"['F248', 'F95']",abt 1901,Florida,,
+I182542699651,W Pershing,O'Steen,['F95'],abt 1919,Florida,,
+I182542699653,E Bernard,O'Steen,['F95'],abt 1921,Florida,,
+I182542700745,Jill,Dean,['F371'],,,,
+I182542701298,Walter Preston,DEAN,"['F355', 'F268']",abt 1911,Alabama,,
+I182542701300,Sara Ellen,FRINK,"['F346', 'F268']",abt 1915,Alabama,3 Mar 2001,
+I182542701687,Richard Preston,Dean,"['F268', 'F386']",,,,
+I182542701688,Jill Ellen,Dean,['F268'],,,,
+I182542701837,Jason Preston,Dean,['F386'],,,,
+I182542702484,Walter C,DEAN,"['F261', 'F355']",abt 1876,Alabama,,
+I182542702485,Alice,() DEAN,"['F258', 'F355']",abt 1898,Alabama,,
+I182542702487,Evie,Dean,['F355'],abt 1909,Alabama,,
+I182542702488,Leonard,Dean,['F355'],abt 1913,Alabama,,
+I182542702492,Willard C,Dean,['F355'],abt 1919,Alabama,,
+I182542702495,Dorothy,Dean,['F355'],abt 1922,Alabama,,
+I182542702496,Thomas,Dean,['F355'],abt 1927,Alabama,,
+I182542706668,Bert,FRINK,"['F423', 'F346']",abt 1877,Tennessee,,
+I182542706669,Sarah,() FRINK,"['F315', 'F346']",abt 1884,Tennessee,,
+I182542706670,Herbert,Frink,['F346'],abt 1904,Tennessee,,
+I182542706671,James,Frink,['F346'],abt 1906,Tennessee,,
+I182542706675,Mary,Frink,['F346'],abt 1908,Tennessee,,
+I182542706676,Johnnie,Frink,['F346'],abt 1910,Alabama,,
+I182542706681,Roy,Frink,['F346'],abt 1911,Tennessee,,
+I182542706682,Grace,Frink,['F346'],abt 1915,Alabama,,
+I182542706683,William,Frink,['F346'],Abt. Aug 1919,Alabama,,
+I182543572672,John Hance,O'Steen,"['F304', 'F250']",22 Dec 1856,"Columbia, Columbia, Florida, United States",09/24/1948,"High Springs, Alachua, Florida, United States"
+I182543572689,Sarah Frances,Hines,"['F295', 'F250']",4 Nov 1862,"Florida, USA",4 Feb 1935,"Gilchrist, Florida, USA"
+I182543572698,Elias Frank,Thomas,"['F307', 'F248']",23 September 1874,"Florida, United States of America",June 1929,"Florida, United States of America"
+I182543572709,Nellie Florence,() Thomas,['F248'],Dec 1878,Florida,1948,"Alachua, Florida, United States"
+I182543572721,John R,Dean,['F261'],2 Sep 1837,"Alabama, USA",9 Mar 1904,
+I182543572723,Nancy Ann Mary,Carden,"['F130', 'F261']",16 Aug 1840,"Alabama, United States",19 Mar 1918,"St. Clair, Alabama, United States"
+I182543572729,John T,Hartley,"['F185', 'F258']",2 Jul 1851,Georgia,15 Dec 1915,Blount County Alabama USA
+I182543572738,Frances M Fannie,Posey,"['F162', 'F258']",17 Feb 1862,"Georgia, United States",28 Oct 1918,"Odenville, St Clair, Alabama"
+I182543572752,"Sarah ""Sallie""",Harper,"['F172', 'F423']",abt 1845,"prob Haywood County, TN",27 Feb 1935,"Wenasoga, McNairy, Tennessee"
+I182543572754,John Washington,Glover,"['F231', 'F315']",24 Jun 1845,"Hernanda, De Soto, Mississippi, United States",23 Mar 1910,"Tennessee, United States"
+I182543572768,Rebecca Ellen,Perry,"['F229', 'F315']",26 March 1848,"Somerville, Fayette, Tennessee, USA",15 December 1903,"Laconia, Fayette County, Tennessee, USA"
+I182543572801,James W,Osteen,['F304'],23 Apr 1815,"Camden County, Georgia, USA",5 Feb 1877,"High Springs-Alachua, Alachua, Florida, USA"
+I182543572805,"Mary Ann ""Polly""",Markham,"['F194', 'F304']",12 May 1819,"Camden County, Georgia, USA",12 May 1885,"Gilchrist County, Florida, USA"
+I182543572816,William Henry,Hines,['F295'],1833,"Camden County, Georgia","May 9, 1863","Richmond, VA"
+I182543572823,Fanny,Tompkins,['F295'],25 June 1831,"Georgia, USA",March 24 1909,"Gilchrist County, Florida, USA"
+I182543572837,"Lewis Rance ""Preacher""",Thomas,['F307'],2 June 1836,"Ware, Georgia, United States",12 November 1914,Florida
+I182543572856,Martha Jane,Nettles,['F307'],29 Oct 1841,"Appling County, Georgia, USA",14/Nov/1895,"Bradford County, Florida, United States"
+I182543572932,Jay Jack,Campbell,"['F93', 'F87']",7 Jun 1909,"Chickasaw, Pontotoc, Oklahoma, United States",4 APR 1992,"Powderly, Lamar, Texas, United States of America"
+I182543573120,John Julian,Campbell,['F93'],15 September 1877,"Brenham, Washington County, Texas, USA",06 August 1951,"Cisco, Eastland County, Texas, USA"
+I182543573139,Mary Alice Cornelia,Ingram,['F93'],03 Nov 1889,"Nimrod, Eastland, Texas, United States",03 Feb 1975,"Cisco, Eastland, Texas, United States"
+I182543573147,Flora Itery,Luttrell,"['F98', 'F87']",10 Sep 1914,"Bosque County, Texas",15 Jul 2010,"Paris, Lamar, Texas, United States of America"
+I182543573167,Lonnie Buford,Luttrell,"['F69', 'F98']",20 September 1885,"Bosque County, Texas, USA",26 April 1933,"Cisco, Eastland County, Texas, United States"
+I182543573171,"Elizabeth ""Lizzie""",Honea,['F98'],26 Jul 1888,"Kimball Bosq, Texas",21 May 1968,"Odessa, Ector, Texas, United States"
+I182543573179,Milton Jacob,Luttrell,['F69'],12 Oct 1837,"Hardeman County, Tennessee, USA",15 Jan 1911,"Cisco, Eastland, Texas, USA"
+I182543573204,Sarah Jane Sallie,Glenn,['F69'],11 November 1840,"Hardman County, Tennessee, United States",28 December 1928,"Fort Worth, Tarrant, Texas, United States"
+I182543573267,Susina (Sina) Elizabeth,Griffin,['F141'],1810,"Tattnall County, Georgia, USA",1890,"Mt Olive, Marshall, AL (Mt. Olive Baptist Cemetery)"
+I182543573297,Dennis,McClendon,['F141'],21 March 1809,"Carthage Junction, Smith County, Tennessee, United States of America",1888,"Marshall County, Alabama, United States of America"
+I182543573355,James Harvey Reuben,Carden,['F130'],04 May 1821,"Lawrence, Alabama, United States",09 Jun 1899,"Yellow Leaf, Shelby, Alabama, United States"
+I182543573390,"Mary Elizabeth ""Eliza""",Dean,['F130'],12 Dec 1816,"Tennessee, USA",01 Aug 1894,"Shelby County, Alabama, USA"
+I182543573424,James M,Hartley,['F185'],1827,Georgia,1880,"Allgood, Blount, Alabama, United States"
+I182543573438,Martha Ann Jane,Burgess,['F185'],Abt. 1826,Georgia,1880,"Allgood, Blount, Alabama, United States"
+I182543573449,"Pinkney C. ""Pink""",Posey,['F162'],1801,"Tennessee, USA",aft. 1866,"Carroll, Georgia, USA"
+I182543573463,Mary,Tolleson,['F162'],1824,Georgia,Aft. 1880,Of Georgia
+I182543573481,William D,Harper,['F172'],24 Jun 1815,Tennesee,15 Mar 1859,"Brownsville, Haywood, TN, USA"
+I182543573487,Louisa Anna,Peebles,['F172'],3 Mar 1824,"Williamson County, Tennessee, USA",05 Oct 1880,"Brownsville, Haywood County, Tennessee, USA"
+I182543573516,Joseph Joab,Glover,['F231'],1798,South Carolina,abt   1860,"Alabama, USA"
+I182543573523,Sarah,Rottenberry,['F231'],abt   1824,"South Carolina, USA",13 Jan 1902,"Alabama, United States"
+I182543573532,"Asa ""Acey""",Perry,['F229'],1822,North Carolina,1895,"Laconia, Fayette, Tennessee, United States"
+I182543573538,Elizabeth Lydia,Smith,['F229'],1823,North Carolina,1895,"Fayette, Tennessee, United States"
+I182543573593,William,Markham,['F194'],29 May 1783,"Prince Edward County, Virginia Territory",1 Feb 1861,"Camden County, Georgia, USA"
+I182543573665,Mary,Gorman,['F194'],Abt. 1786,"Burke County, Georgia, USA",Abt. 1840,"Camden County, Georgia, USA"
+I182543578927,,SLACK,"['F299', 'F337']",,,,
+I182543578956,Cline,SLACK,['F299'],,"Ohio, USA",,
+I182543578981,Velma Lucille,FORGEY,['F299'],,,,
+I182543579038,John William,O'BRIEN,"['F54', 'F337']",abt 1930,Mississippi,,
+I182543579049,"Dorothy ""Dottie""",GRIFFIN,"['F74', 'F54']",abt 1903,"Duncansby, Mississippi Choctaw Reservation, Neshoba, Mississippi, USA",,
+I182543579189,James Lynn,O'BRIEN,"['F369', 'F54']",abt 1902,"Camden, Ouachita, Arkansas, USA",,
+I182543580525,James Lynn,O'Brien,['F54'],abt 1928,Mississippi,,
+I182543580849,Johnie,O'Brien,['F369'],abt 1901,Arkansas,,
+I182543580850,Mona,O'Brien,['F369'],abt 1905,Arkansas,,
+I182543580851,Lois,O'Brien,['F369'],abt 1908,Arkansas,,
+I182543580852,Hugh,O'Brien,['F369'],abt 1910,Arkansas,,
+I182543580853,Frank,O'Brien,['F369'],abt 1914,Arkansas,,
+I182543580854,Howard J,Nye,['F285'],abt 1879,Minnesota,,
+I182543580855,Agnes,BROWN,"['F309', 'F285', 'F369']",27 Oct 1878,"Grant County, Arkansas, USA",14 Jan 1958,"Sheridan, Grant, Arkansas, USA"
+I182543581031,James Henry Clay,BROWN,['F309'],,,,
+I182543581032,Caroline,MORGAN,['F309'],,,,
+I182543581430,John,GRIFFIN,"['F228', 'F84', 'F74']",Feb 1867,Mississippi,bef. 1920,Mississippi
+I182543581433,Cornelia,ANDERSON,['F74'],1 March 1874,Mississippi,21 April 1939,
+I182543581434,William Anderson,Griffin,"['F74', 'F75']",21 Dec 1898,"Grace, Mississippi, USA",,
+I182543581435,John Wesley,Griffin,"['F74', 'F77']",26 Mar 1901,"Grace, Issaquena, Mississippi, USA",23 Nov 1960,"Manchester, Hillsborough, New Hampshire, USA"
+I182543583107,Ora,Bourque,"['F427', 'F77']",abt 1901,Michigan,,
+I182543583156,Eulalie,() Bourque,['F427'],abt 1872,French Canada,,
+I182543583821,Edith,Snyder,"['F403', 'F75']",abt 1913,Indiana,,
+I182543583930,Lena,() Snyder,['F403'],abt 1885,Indiana,,
+I182543599984,ASHLEY,DAVENPORT,"['F159', 'F127']",May 1986,,,
+I182543600041,,Hall,['F127'],,,,
+I182543600080,Marilyn Denise,SCOTT,"['F226', 'F159']",17 Jan 1956,"Birmingham, Alabama, USA",,
+I182543600152,Carrie C,BEVERLY,['F226'],24 Mar 1928,,29 Mar 2018,"Birmingham, Jefferson, Alabama, USA"
+I182543602193,Willie G,SCOTT,['F226'],Abt. 1925,,,
+I182543604730,William Edward,KENT,"['F192', 'F146']",1868,"Augusta, GA.",21 Sep 1920,"Augusta, Richmond, Georgia, USA"
+I182543604998,Annie Juanita,KENT,"['F146', 'F116']",abt 1908,Georgia,,
+I182543604999,Alice Louisa,PARKER,"['F29', 'F146']",abt 1877,Georgia,,
+I182543605155,Lewis W,KENT,"['F167', 'F192']",1844,Georgia,,
+I182543605156,Isabella,TOUCHSTONE,['F192'],Nov 1844,"Georgia, USA",,
+I182543605288,Walter L,Kent,['F192'],Sep 1880,"Georgia, USA",,
+I182543605290,Ernest F,Kent,['F192'],Jul 1882,"Georgia, USA",,
+I182543605377,Margret M,Kent,['F192'],May 1886,"Georgia, USA",,
+I182543606267,William R,KENT,['F167'],abt 1802,North Carolina,,
+I182543606268,"Sarah ""Sally""",MORGAN,['F167'],abt 1805,Georgia,,
+I182543606270,William R,Kent,['F167'],abt 1833,Georgia,,
+I182543606271,Margaret,Kent,['F167'],abt 1835,Georgia,,
+I182543606272,Lucretia,Kent,['F167'],abt 1837,Georgia,,
+I182543606273,Ransom R,Kent,['F167'],abt 1839,Georgia,,
+I182543695902,PHILIP E,AARON,['F80'],Oct 1949,South Carolina,,
+I182543696127,"Ira Edward ""Spud""",AARON,"['F196', 'F80']",Abt. 1913,"Lyons, Toombs, Georgia, USA",,"Lyons, Toombs, Georgia, USA"
+I182543696143,Lotty Vickery,Rountree,"['F219', 'F80']",abt 1915,"Adrian, Johnson, Georgia, USA",,"Lyons, Toombs, Georgia, USA"
+I182543696474,Ira Edward,Aaron,"['F271', 'F196']",18 Mar 1871,"Bulloch County, Georgia, USA",19 Jul 1928,"Lyons, Toombs, Georgia, USA"
+I182543696479,Sarah Ophelia,Partin,"['F287', 'F196']",7 Sep 1877,"Tattnall County, Georgia, USA",7 May 1973,"Vidalia, Toombs, Georgia, USA"
+I182543696493,Alonzo Manning,Rountree,"['F282', 'F219']",6 Jun 1869,"Adrian, Emanuel, Ga",21 Jul 1936,"Savannah, Georgia"
+I182543696501,Hattie Calhoun,Rogers,"['F255', 'F219']",29 Aug 1878,Georgia,1 Feb 1975,"Reidsville, Tattnall, Georgia"
+I182543696539,"James Matthew ""William""",Aaron,"['F262', 'F271']",10 Jul 1844,"Emanuel, Georgia, United States",14 May 1914,"Jenkins, Georgia, United States"
+I182543696543,Elizabeth,Hendley,"['F326', 'F271']",3 Jun 1854,"Georgia, USA",7 Oct 1916,"Jenkins, Georgia, United States"
+I182543696546,John Jackson,Partin,"['F319', 'F287']",20 Apr 1837,"Tattnall County, Georgia, USA",6 Sep 1896,"Tattnall County, Georgia, USA"
+I182543696553,Emma Hart,Merriman,"['F297', 'F287']",1 Nov 1849,"Connecticut, USA",19 Aug 1915,"Georgia, USA"
+I182543696561,William,Rountree,"['F416', 'F282']",5 December 1815,"Tar River, Granville, North Carolina, United States",1 September 1885,"Emanuel, Georgia, United States"
+I182543696564,Caroline,Dekle,"['F343', 'F282']",11 Feb 1837,"Emanuel County, Georgia, USA",18 Dec 1884,"Emanuel County, Georgia, USA"
+I182543696576,Robert Mansfield,Rogers,"['F356', 'F255']",19 May 1856,South Carolina,6 Jan 1949,"Reidsville, Tattnall, Georgia, USA"
+I182543696580,Sallie Witten,Goodwyn,"['F358', 'F255']",02 Jan 1857,"Abbeville District, South Carolina",20 May 1927,
+I182543696620,WILLIAM GEORGE,AARON,"['F410', 'F262']",abt 1803,"Barnwell, Barnwell, South Carolina, USA",2 Mar 1862,"Bulloch, Georgia, USA"
+I182543696627,SARAH,MILLER,"['F409', 'F262']",1813,"Emanuel, Georgia, United States",20 Aug 1857,"Emanuel, Georgia, United States"
+I182543696642,Wright Lafayette,Hendley,"['F49', 'F326']",January 1816,"Emanuel County, GA",2 May 1881,"Emanuel County, GA"
+I182543696655,Sarah Ozene,Lewis,"['F11', 'F326']",5 October 1826,"Emanuel, Georgia, United States","July 4, 1908","Jenkins,,Georgia,USA"
+I182543696661,Robert Charles,Partin,['F319'],31 Oct 1803 or 1804 check,"Clark, Dodge, Georgia, USA or Visalia, Montgomery County, Georgia, USA",21 Sep 1869 or 18 Nat 1867,"Clark or Vidalia, Tattnall County, Georgia, USA"
+I182543696677,Matilda,Ryals,"['F8', 'F319']",26 December 1800,"Johnston, North Carolina",20 January 1886,"Tattnall County, Georgia"
+I182543696697,George J,Merriman,"['F100', 'F297']",21 Feb 1820,of New Haven,21 Aug 1863,"Tattnall County, Georgia, USA"
+I182543696712,Parnel E.,Scranton,"['F67', 'F297']",30 May 1822,"North Branford, New Haven County, Connecticut, USA",30 August 1860,"Tattnall County, Georgia, USA"
+I182543696801,Charlotte Augusta,Calhoun,"['F178', 'F358']",19 Nov 1831,"Abbeville, Abbeville, South Carolina, United States",15 Mar 1861,"Greenwoood, South Carolina, United States"
+I182543696807,Capt Peterson Witten,Goodwyn,"['F429', 'F358']",29 Jul 1830,"Orangeburg, SC",06 Nov 1892,"Talladega, Alabama"
+I182543696812,"Ann Eliza L ""Annie""",Brown,"['F113', 'F356']",20 January 1827,"Sandersville, Washington County, Georgia, USA",14 October 1909,"Pelham, Mitchell, Georgia, USA"
+I182543696831,"Theophilus Augustus""Theo""",Rogers,"['F151', 'F356']",13 February 1818,"Calhoun's Mills, Abbeville District, South Carolina, USA",14 April 1883,"Euharlee, Bartow or Floyd, Georgia, USA"
+I182543696840,Susan,Warren,['F343'],Abt 1811,"Lowndes County, Georgia, USA",1900,"Georgia, USA"
+I182543696852,Littleton,Dekle,"['F142', 'F343']",11 Jul 1811,"Cy, Morgan, Georgia, United States",1866,"Emanuel County, Georgia, United States of America"
+I182543696856,"Zilphia ""Zilphy""",Durden,"['F78', 'F416']",16 November 1784,"Granville, North Carolina, United States",after 1870,"Emanuel, Georgia, United States"
+I182543696927,William George,Aaron,['F410'],1779,"Barnwell, Barnwell, South Carolina, United States",1808,"Barnwell, Barnwell, South Carolina, United States"
+I182543696930,Charles,Miller,['F409'],1775,"South Carolina, USA",1865,"Bulloch County, Georgia, USA"
+I182543696939,John,Hendley,['F49'],abt 1770,North Carolina,1860,North Carolina
+I182543696947,Dorcas,Cowart,['F49'],ABT 1789,"Effingham Co., Ga.",Abt. 1850,"Georgia, USA"
+I182543696962,Stephen D.,Lewis,['F11'],24 Jan 1803,"Emanuel, Georgia, United States",11 Jun 1876,"Emanuel County, Georgia, USA"
+I182543696980,"Samantha ""Mantha""",Cowart,['F11'],1803,"Reidsville, Tattnall County, Georgia, USA",Nov 1849,"Emanuel County, Georgia, USA"
+I182543696991,William A.,Royall \ Ryals,['F8'],1 January 1748,"Roberson, Johnston, North Carolina",1 February  1828,"Dead River New Hope Baptist Church Cemetery - Dead River, Montgomery, Georgia"
+I182543697031,Edith,Childs,['F8'],20 Nov 1749,"Johnston, North Carolina, USA",1835,"Dead River, Montgomery, Georgia, USA"
+I182543697059,Charles,Merriman,['F100'],17 APR 1798,"Luzerne, Luzerne, PA",13 JUL 1856,"Marseilles, Wyandot, OH"
+I182543697077,Susan,Cary,['F100'],3 Mar 1808,"Kenton, Hardin, Ohio, USA",25 Jan 1881,"Kenton, Hardin, Ohio, USA"
+I182543697092,Martin E,Scranton,['F67'],20 January 1797,"North Guilford, New Haven, Connecticut",4 Apr 1888,"Killingworth, Middlesex, Connecticut, USA"
+I182543697108,Sarah Sally,Francis,['F67'],11 Apr 1801,"Killingworth, Middlesex, Connecticut, USA",11 DEC 1876,"North Branford, New Haven, Connecticut, USA"
+I182543697146,Major Jacob,Durden,['F78'],3 August 1755,"North Carolina, USA",26 APR 1845,"Emanuel, Georgia, USA"
+I182543697159,Mary Anne,Hilliard,['F78'],1765,"Granville Co, North Carolina",1846,"Emanual Co, Georgia, USA"
+I182543697168,George,Dekle,['F142'],30 May 1781,"Effingham County, Georgia, USA",10 May 1846,"Campbellton, Jackson, Florida, USA"
+I182543697194,Nancy,Rountree,['F142'],7 May 1785,"North Carolina, United States",4 May 1856,"Campbellton, Jackson, Florida, United States"
+I182543697198,Peter Bayard,Rogers,['F151'],24 June 1775,"New Bordeaux, McCormick, South Carolina",1 Feb 1839,"New Bordeaux, McCormick, South Carolina"
+I182543697202,Mary Jane,Palmer,['F151'],5 Apr 1797,"Chesapeake, Elizabeth, Virginia, United States",25 Mar 1835,"Bordeaux, McCormick, South Carolina, United States"
+I182543697210,"Morgan A ""Colonel""",Brown,['F113'],C 1788 /19 August 1788 ?,"Cheraw, Chesterfield, South Carolina, USA",22 April 1845,"Sandersville, Washington, Georgia, USA"
+I182543697239,Harriet,Rawls,['F113'],c 1803,"Bulloch County, Georgia, USA",22 October 1831,"Washington County, Georgia, USA"
+I182543697297,General William Alfred,Goodwyn,['F429'],18 Nov 1802,"Richland County, South Carolina",bef. 1870,"Lowndes County, Alabama"
+I182543697307,Dr Ephraim* Ramsey,Calhoun,['F178'],17 Dec 1801,"Calhoun Falls, Abbeville, South Carolina, United States",11 Feb 1883,"Abbeville, Abbeville, South Carolina, United States"
+I182543697308,Charlotte* Matilda,Moseley,['F178'],19 Sep 1805,"Cumberland, Cumberland, Virginia, United States",19 Apr 1868,"Greenwood, Greenwood, South Carolina, United States"
+I182543697634,SABRINA DIANE,BERMINGHAM,"['F314', 'F269']",8 Jan 1959,,,
+I182543697694,Albert Gourgott,BERMINGHAM,"['F43', 'F314']",22 May 1927,"New Orleans, Louisiana",Jun 1974,"Baton Rouge, East Baton Rouge, Louisiana, USA"
+I182543697818,Emerita,GRIFFIN,"['F168', 'F106', 'F314']",4 Aug 1927,"Puerto Cortez, Cortes, Honduras",25 Aug 2022,Baton Rouge
+I182543697920,Henry S,Bermingham,"['F48', 'F43']",2 JAN 1904,"New Orleans, Orleans, Louisiana",26 oct 1987,
+I182543697930,Alberta,Gourgott,"['F21', 'F43']",1 Mar 1901,"New Orleans, Louisiana",26 Aug 1990,
+I182543697968,Thomas Joseph,Bermingham,['F48'],14 JUN 1877,"New Orleans, Orleans, Louisiana",6 NOV 1909,"Louisiana, United States"
+I182543697974,Augusta,Keenze,['F48'],JAN 1879,"Louisiana, United States",September 1965,
+I182543697983,Albert G.,Gourgott,['F21'],abt 1873,Louisiana,27 Mar 1951,"Orleans, Lousiana, USA"
+I182543697990,Alexandrine,Sangassan,['F21'],abt 1875,"Louisiana, USA",20 Jan 1921,"Orleans, Lousiana, USA"
+I182543698357,Sandra Elizabeth,Diaz,"['F106', 'F188', 'F164']",14 Oct 1946,"Puerto Cortes, Honduras",26 Aug 2020,"Austin, Travis, Texas, USA"
+I182543698358,Oscar,Diaz,"['F106', 'F190']",,,,
+I182543698359,Olga,Diaz,"['F106', 'F189']",12 Mar 1948,"Puerto Cortes, Honduras",,
+I182543698428,Gonzalo Sandoval,GRIFFIN,"['F253', 'F168']",Abt. 1886,Florida or Mississippi,1930,"Puerto Cortez, Cortes, Honduras"
+I182543698455,Fidelia,ZEPEDA ROMERO,"['F266', 'F168']",abt 1890,,,
+I182543698601,Sandra,() Diaz,['F190'],,,,
+I182543698639,John,Carrara,['F189'],,,,
+I182543698700,Nikki,Orvis,['F269'],,,,
+I182543698728,Aaron,Carrara,"['F189', 'F388']",,,,
+I182543698758,Butch,Sparks,['F188'],,,,
+I182543698765,Yancey,Sparks,"['F188', 'F394']",,,,
+I182543698804,Victor,Diaz,"['F190', 'F380']",,,,
+I182543698906,Sabrina,Carrara,"['F189', 'F341']",,,,
+I182543698915,,Fontenot,['F341'],,,,
+I182543698976,Lauren,Diaz,"['F190', 'F50', 'F398']",,,,
+I182543698995,Ricky Louis,Hamilton,['F50'],,,,
+I182543699019,Samantha,Fontenot,['F341'],,,,
+I182543699028,Nicholas,Fontenot,['F341'],,,,
+I182543699077,Jackson,Diaz,['F380'],,,,
+I182543699083,MILLA,DIAZ,['F380'],,,,
+I182543699212,Michael,Carrara,['F388'],,,,
+I182543699223,Alexander,Carrara,['F388'],,,,
+I182543699229,Christopher,Carrara,['F388'],,,,
+I182543699244,Noah,Carrara,['F388'],,,,
+I182543699249,Cole,Carrara,['F388'],,,,
+I182543699360,Noël,Diaz,['F398'],2 Dec 2009,,,
+I182543699376,Westin James,Hamilton,['F50'],11 Jan 2012,,,
+I182543699416,Matthew,Sparks,['F394'],,,,
+I182543699427,Alexa,Sparks,['F394'],,,,
+I182543702178,Porfirio,Diaz,"['F82', 'F106']",,,,
+I182543704527,,Seale,['F164'],,,,
+I182543705276,Gonzalo,Griffin,['F168'],15 Jun 1919,"La Laguna, Cortes, Honduras",1992,
+I182543705523,Tomas Jose,Griffin,['F168'],17 Apr 1910,"Puerto Cortez, Cortes, Honduras",21 May 1922,"Puerto Cortez, Cortes, Honduras"
+I182543705572,Viola,Griffin,"['F168', 'F176']",11 Dec 1916,"Puerto Cortez, Cortes, Honduras",,
+I182543705784,Tomas,GRIFFIN,['F253'],,Mississippi,25 Feb 1887,"Puerto Cortez, Cortes, Honduras"
+I182543705813,Lucia V,CLEVELAND,['F253'],Abt. 1845,Missouri,14 Jun 1920,
+I182543705846,Esteban,ROMERO,['F266'],,,,
+I182543705866,Arcadia,ZEPEDA,['F266'],,,,
+I182543706036,Felipe,Bulnez,['F176'],,,,
+I182543706169,Juanita Consuelo,Griffin,"['F168', 'F3']",27 Dec 1913,"Puerto Cortez, Cortes, Honduras",,
+I182543706202,Abraham,Mejia Z,['F3'],,,,
+I182543706352,Porfirio,Diaz,['F82'],,,,
+I182543706382,Francisca,Valladares,['F82'],,,,
+I182543706956,Lucia,Griffin,"['F168', 'F298']",24 Nov 1923,,,
+I182543706984,René Eden,Welster,['F298'],,,,
+I182543738096,Beatriz,Griffin,['F168'],bef. 1 Apr 1923,"Puerto Cortez, Cortes, Honduras",,
+I182543761421,Rosa,Griffin,"['F253', 'F35']",,,,
+I182543761432,Hugh Charles,Henderson,['F35'],,,,
+I182543761661,Andres T,Griffin,"['F253', 'F79']",,,,
+I182543761793,Carmen Florencia,Cubas,['F79'],,,,
+I182543762750,Gideon,Griffin,['F79'],23 Oct 1927,"Puerto Cortez, Cortes, Honduras",,
+I182543763207,Carmen,Griffin,['F79'],2 May 1912,"Puerto Cortez, Cortes, Honduras",,
+I182543763540,Andres H,Griffin,['F79'],30 Dec 1913,"Puerto Cortez, Cortes, Honduras",,
+I182543763749,Eva,Griffin,['F79'],6 Mar 1918,"Puerto Cortez, Cortes, Honduras",,
+I182543764683,Josefina,Griffin,['F79'],21 Nov 1919,"Pto Cortes, Honduras",12 Aug 1992,
+I182543765039,Adela,Griffin,['F79'],5 Feb 1921,,8 Jul 1921,
+I182543766274,Andrea,Griffin,['F79'],30 Dec 1914,,,
+I182543766346,Julian,Griffin,['F79'],Jun 1916,,,
+I182543767002,Maria,Griffin,['F253'],,,,
+I182543767016,Anita,Griffin,['F253'],,,,
+I182543767080,Lillian Maria,Henderson,['F35'],26 Apr 1903,,,
+I182543769186,Alicia,Griffin,['F168'],14 Feb 1912,,,
+I182543864324,Mario Rolando,Griffin,['F79'],,,10 Aug 1929,
+I182543868502,Rosa,() Griffin,['F84'],Apr 1870,"Mississippi, USA",,
+I182543868503,Vernie,Griffin,['F84'],Dec 1898,"Mississippi, USA",,
+I182543869396,CHARLES,AARON,['F80'],,,,
+I182543927620,HAYWARD T,HUBBS,"['F201', 'F119']",Apr 1953,"Canton, Madison, Mississippi, USA",,
+I182543927835,Alvie Laverne,Gross,['F119'],,,,
+I182543927902,Steven Gregory,Hubbs,['F119'],,,,
+I182543927939,Tomikia Nicole,Hubbs,['F119'],,,,
+I182543927991,ASHANTI LYNNAE,HUBBS,"['F119', 'F191']",,,,
+I182543928740,,Mims,['F191'],,,,
+I182543928917,LC,JONES,['F201'],abt 1930,"Canton, Madison, Mississippi, USA",,
+I182543928958,Desiree,HUBB,"['F323', 'F201', 'F149']",22 Jul 1933,"Madison, Mississippi",8 Dec 1988,
+I182543929102,Aaron,HUBBS,"['F76', 'F323']",29 Apr 1904,"Madison, Mississippi, USA",12 March 1980,
+I182543929103,Minnie Elizabeth,McKAY,"['F36', 'F323']",abt 1916,Mississippi,,
+I182543929653,Lynn,McGruder,['F149'],,,,
+I182543930328,Lucile,Hubb,['F323'],abt 1933,Mississippi,,
+I182543930329,Aaron,Hubb,['F323'],abt 1935,Mississippi,,
+I182543930330,Betty J,Hubb,"['F323', 'F422']",abt 1936,Mississippi,,
+I182543930331,Earnestine,Hubb,['F323'],abt 1938,Mississippi,,
+I182543930332,Chistrine,Hubb,['F323'],abt 1940,Mississippi,,
+I182543931335,JOSEPH,HUBB,['F422'],2 Sep 1958,"Bexar, Texas, USA",,
+I182543932670,Walter L,HUBB,"['F173', 'F76']",10 Aug 1872,Mississippi,,
+I182543932671,"Susana ""Susie""",BURKS,"['F377', 'F76']",abt 1890,Mississippi,,
+I182543932674,Walter,Hubb,"['F76', 'F147']",abt 1904,Mississippi,,
+I182543932675,James,Hubb,['F76'],abt 1907,Mississippi,,
+I182543932676,Jane,Hubb,['F76'],abt 1909,Mississippi,,
+I182543932677,Pearline,Hubb,"['F76', 'F117', 'F135']",18 Jul 1910,"Madison Madi, Mississippi",17 Feb 2002,
+I182543932871,Dora,Hubb,['F147'],abt 1922,Mississippi,,
+I182543932872,Janie,Hubb,['F147'],abt 1924,Mississippi,,
+I182543932873,Perlena,Hubb,['F147'],abt 1926,Mississippi,,
+I182543932874,James,Hubb,['F147'],abt 1928,Mississippi,,
+I182543932875,Corine,() Hubb,['F147'],abt 1905,Mississippi,,
+I182543932940,Mary,Hubb,['F147'],abt 1930,Mississippi,,
+I182543932953,D C,Hubb,['F147'],abt 1931,Mississippi,,
+I182543933065,Rosie,Sharkey,['F117'],abt 1936,Mississippi,,
+I182543955920,Daisie Bell,Hobb,['F323'],abt 1943,Mississippi,,
+I182543955921,Earline,Hobb,['F323'],abt 1944,Mississippi,,
+I182543956299,,Sharkey,['F117'],,,,
+I182543956323,,Nelson,['F135'],,,,
+I182543956566,Dave C,Hubb,['F400'],Jun 1888,"Missouri, USA",,
+I182543956567,Charley,HUBB,"['F173', 'F400']",1848,"Louisiana, USA",,
+I182543957476,Eliza,Hubb,['F173'],Abt 1870,Mississippi,,
+I182543957477,Charley,Hubb,['F173'],Abt 1875,Mississippi,,
+I182543957478,Maria,Hubb,['F173'],Abt 1878,Mississippi,,
+I182543957479,Oliver,Hubb,['F173'],Jun 1879,Mississippi,,
+I182543957480,Isaac,Hubb,['F173'],Jun 1879,Mississippi,,
+I182543957481,Persimia,() HUBB,"['F173', 'F405']",Abt 1845,South Carolina,,
+I182543957482,Andrew,Hubb,['F173'],Abt 1874,Mississippi,,
+I182543957631,Jane,() Hubb,['F405'],Abt 1863,Mississippi,,
+I182544231234,Nathaniel,BURKS,['F377'],,,,
+I182544231421,James H,McKAY,"['F210', 'F36']",abt 1878,Mississippi,,
+I182544231447,Mary Anna,PARTEE,"['F363', 'F36']",abt 1880,Mississippi,,
+I182544231901,Henry,McKay,['F36'],abt 1906,Mississippi,,
+I182544231902,Lucile,McKay,['F36'],abt 1908,Mississippi,,
+I182544231903,Hattie,McKay,['F36'],abt 1910,Mississippi,,
+I182544231904,Daisy,McKay,['F36'],abt 1913,Mississippi,,
+I182544231905,Burnice,McKay,['F36'],abt 1914,Mississippi,,
+I182544231906,Joseph,McKay,['F36'],4 May 1917,"Winona Montg, Mississippi",4 Jun 1992,
+I182544231908,Christine,McKay,['F36'],abt 1920,Mississippi,,
+I182544232051,James Henry,McKay,['F210'],1852,Mississippi,1916,"Canton, Madison, Mississippi, USA"
+I182544232170,D,McKay,['F210'],abt 1874,Mississippi,,
+I182544248719,C,McKay,['F210'],Abt 1854,South Carolina,,
+I182544248721,A,McKay,['F210'],Abt 1875,Mississippi,,
+I182544248723,S,McKay,['F210'],Abt 1876,Mississippi,,
+I182544248724,,McKay,['F210'],Dec 1879,Mississippi,,
+I182544249608,,PARTEE,['F363'],,,,
+I182544249686,Dicy,Partee,"['F363', 'F290']",abt 1874,Mississippi,4 March 1966,
+I182544249696,,Bouldin,['F290'],,,,
+I182544249858,James,McKay,['F36'],15 Jun 1921,"Jackson, Madison, Mississippi, USA",30 Nov 1964,"Chicago, Cook, Illinois, USA"
+I182544749485,CATRINA,JEFFERSON,['F417'],abt 1960,Mississippi,,
+I182544749548,Jesse,JEFFERSON,['F417'],1936,Mississippi,,
+I182544812600,GARTH,MACK,['F407'],,,,
+I182544812640,,MACK,"['F414', 'F407']",,,,
+I182544812670,,BEAN,"['F208', 'F414']",,,,
+I182544812725,Richard,BEAN,['F208'],Abt. 1935,,,
+I182544812877,Ethel,LANE,['F208'],14 Nov 1936,"Tillar, Desha, Arkansas, USA",9 Oct 2018,
+I182544820272,Robert Earl,Scott,['F226'],1 Jun 1957,,,
+I182545066086,Darius DP,Davenport,['F5'],31 Mar 1986,"Birmingham, Alabama, USA",,
+I182545066114,Shirina W,() Davenport,['F5'],22 Sep 1959,"Birmingham, AL",,
+I182545066916,Jerry,Davenport,['F5'],,,,
+I182545067174,Jerry W,Davenport,"['F1', 'F5']",Abt. 1959,"Birmingham, Alabama, USA",,
+I182545067186,Chris,Davenport,['F5'],,,,
+I182545075362,Willie Lee,DAVENPORT,"['F137', 'F1']",Feb 1933,,,
+I182545075442,Nervine,THOMAS,"['F114', 'F1']",Abt. 1935,,,
+I182545075601,Willie K,Davenport,"['F1', 'F111', 'F131']",Abt. 1956,"Birmingham, Alabama, USA",10 Aug 2008,
+I182545075625,Cathy,() Davenport,['F111'],,,,
+I182545075639,Bryant K,Jones,['F111'],,,,
+I182545075650,Brandon C,Davenport,['F111'],,,,
+I182545075680,Willie T,Davenport,['F111'],,,,
+I182545075898,Roderick,DAVENPORT,"['F1', 'F159']",Abt. 1955,"Birmingham, Alabama, USA",,
+I182545076052,Seretha,Morris,"['F327', 'F131']",,,,
+I182545076186,Josephine,() Morris,['F327'],,,,
+I182545076213,Jesse,Morris,['F327'],,,,
+I182545076246,Jesse,Morris,['F327'],,,,
+I182545076286,Sherron,Morris,"['F327', 'F30']",,,,
+I182545076296,Evelyn,Morris,"['F327', 'F94']",,,,
+I182545076335,,Hopkins,['F94'],,,,
+I182545076376,,Thornton,['F30'],,,,
+I182545079322,Willie G,Scott,['F226'],1 Jul 1954,,,
+I182545080721,Isom,THOMAS,['F114'],12 May 1909,"Barber, Alabama, USA",20 Feb 1968,"Birmingham, Jefferson, Alabama, USA"
+I182545080755,Mammie,BRAZIER GRIFFIN,"['F296', 'F114']",abt 1913,"Barber, Alabama, USA",1944,"Fairfield, Jefferson, Alabama"
+I182545080806,Ida Blanche,Maxwell,['F137'],1907,"Lawrence County, Alabama, USA",,
+I182545080815,Willie,Davenport,['F137'],,,,
+I182545081329,Julia Mae,Thomas,"['F114', 'F324', 'F313']",Nov 1928,"Eufaula, Barbour, Alabama, USA",,
+I182545081330,Isom,Thomas,['F114'],22 Mar 1931,"Eufaula, Alabama",7 Oct 1998,
+I182545081332,Gussie,Thomas,['F114'],abt 1936,Alabama,,
+I182545081335,James,Thomas,['F114'],abt 1938,Alabama,,
+I182545099324,Colland,Thomas,['F114'],1942,"Centerville, Conecuh, Alabama, USA",1942,"Centerville, Conecuh, Alabama, USA"
+I182545099576,William A,Crowe,"['F211', 'F324']",17 Dec 1925,"Birmingham, Alabama, USA",,
+I182545099750,Erskine Willis,Gregory,['F313'],Abt. 1933,,,
+I182545386117,Artesia,Crowe,['F211'],,,,
+I182545386129,Fannie Mae,Miller,['F211'],,,,
+I182545387362,Burrell,GRIFFIN,"['F425', 'F296', 'F256']",Abt. 1866,"Barbour County, Alabama, USA",18 Nov 1936,"Eufaula, Barbour, Alabama, USA"
+I182545387447,Callie,Brazzier,"['F235', 'F296']",Dec 1879,Alabama,9 September 1960,
+I182545388167,Mary,Brazier Griffin,['F296'],abt 1902,Alabama,,
+I182545388170,Willie M,Brazier Griffin,['F296'],abt 1903,Alabama,,
+I182545388172,Mattie L,Brazier Griffin,['F296'],abt 1906,Alabama,,
+I182545388173,Charles,Brazier Griffin,['F296'],abt 1914,Alabama,,
+I182545388175,Minnie Mae,Brazier Griffin,"['F296', 'F134', 'F216', 'F217', 'F218', 'F402']",24 Nov 1916,"Eufaula Barb, Alabama",21 Mar 1995,"Indianapolis, Marion, Indiana, USA"
+I182545388177,Rosie,Brazier Griffin,['F296'],abt 1919,Alabama,,
+I182545388719,Lillie,Brazier Griffin,['F296'],May 1898,"Alabama, USA",,
+I182545389303,Charles,BRAZIER,['F235'],Jan 1823,"Georgia, USA",,
+I182545389306,Louraine,LEWIS,['F235'],Apr 1845,"Alabama, USA",,
+I182545389307,Junes,Brazzier,['F235'],Mar 1876,"Alabama, USA",,
+I182545389310,Mamie,Brazzier,['F235'],Mar 1882,"Alabama, USA",,
+I182545389313,Stella,Brazzier,['F235'],Nov 1884,"Alabama, USA",,
+I182545389978,James,Parker,['F134'],abt 1907,,,
+I182545390085,Theodis,Parker,['F134'],,,,
+I182545390097,,Owens,['F216'],,,,
+I182545390121,Connie,Owens,['F216'],,,,
+I182545390171,,Mahone,['F217'],,,,
+I182545390178,,Ealy,['F218'],,,,
+I182545390216,Mildred,() McGee,['F402'],,,,
+I182545390263,Willie,Forte,['F402'],,,,
+I182545390747,George,Brazzier,['F235'],Abt 1870,Alabama,,
+I182545390749,Winnie,Brazzier,['F235'],Abt 1872,Alabama,,
+I182545390750,Eugene,Brazzier,['F235'],Abt 1874,Alabama,,
+I182545390751,Sallie,Brazzier,['F235'],Abt 1875,Alabama,,
+I182545396284,Will,Griffin,['F256'],1894,Alabama,,
+I182545396285,Ada,() Griffin,['F256'],1867,Alabama,,
+I182545396286,Emma,Griffin,['F256'],1889,Alabama,,
+I182545396288,Gertrude,Griffin,['F256'],1890,Alabama,,
+I182545396290,Eugene,Griffin,['F256'],1892,Alabama,,
+I182545396292,Gussie,Griffin,['F256'],1896,Alabama,,
+I182545396293,Francis,Griffin,['F256'],1897,Alabama,,
+I182545396297,Laura,Griffin,['F256'],1901,Alabama,,
+I182545396300,Cleveland,Griffin,['F256'],1904,Alabama,,
+I182545397617,KENNETH,CHEATHAM,['F316'],,,,
+I182545397709,J C,CHEATHAM,"['F31', 'F316']",9 Jan 1924,"Augusta, Georgia, USA",23 Apr 2008,"Detroit, Wayne, Michigan, USA"
+I182545397741,,LEWIS,"['F72', 'F316']",,,,
+I182545397776,Abbie,Gilchrist,"['F62', 'F31']",abt 1892,South Carolina,,
+I182545397795,Frances,Mundy,['F62'],abt 1862,"Edgefield, McCormick, South Carolina, United States",1944,"Parksville, McCormick, South Carolina, USA"
+I182545397804,Wyatt,Gilchrist,"['F373', 'F62']",1844,"McCormick, McCormick, South Carolina, USA",27 Mar 1928,"Washington, McCormick, South Carolina, USA"
+I182545397816,Willie,LEWIS,['F72'],,,,
+I182545397827,Lucille,WRIGHT,['F72'],,"Georgia, USA",,
+I182545397915,Jake,CHEATHAM,"['F18', 'F31']",abt 1892,South Carolina,,
+I182545397946,Alford,CHEATHAM,['F18'],,,,
+I182545397952,Elizabeth,SMALL,['F18'],,,,
+I182545397973,"Jacob ""Jake""",Gilchrist,['F373'],1820,South Carolina,,
+I182545398110,Dorothy,Cheatham,['F31'],abt 1917,Georgia,,
+I182545398111,Marion,Cheatham,['F31'],abt 1922,Georgia,,
+I182545399609,JERMOIS,MORRIS,['F300'],,,,
+I182545399743,,MORRIS,"['F40', 'F300']",,,,
+I182545399778,Constance R,DAVIS,['F300'],,,,
+I182545399858,Cleveland,CYRUS,"['F145', 'F40', 'F424']",9 Sep 1940,South Carolina,28 Oct 2008,"Ridge Spring, Saluda, South Carolina, USA"
+I182545400042,Johnnie Mae,LOTT,"['F125', 'F40', 'F41', 'F375']",25 May 1938,"Edgefield County, South Carolina",21 Aug 2022,"Saluda, Saluda, South Carolina, USA"
+I182545400315,"Ollie ""Buster""",CYRUS,"['F391', 'F145']",2 Jul 1906,South Carolina,Oct 1975,
+I182545400316,Annie L,SMITH,['F145'],abt 1909,South Carolina,,
+I182545400317,John E,Cyrus,['F145'],7 Mar 1934,"Monetta Salu, South Carolina",24 Apr 2004,
+I182545400318,James E,Cyrus,['F145'],abt 1936,South Carolina,,
+I182545400319,Leoris E,Cyrus,['F145'],abt 1938,South Carolina,,
+I182545400320,Maggie L,Cyrus,['F145'],abt 1943,South Carolina,,
+I182545400322,Alice L,Cyrus,['F145'],abt 1946,South Carolina,,
+I182545400323,Alfania,Cyrus,['F145'],abt 1901,South Carolina,,
+I182545400325,Woodrow W,Cyrus,['F145'],2 Sep 1933,South Carolina,10 Aug 1969,"Ridge Spring, South Carolina, USA"
+I182545400580,,CYRUS,"['F424', 'F421']",,,,
+I182545400625,RAGINE,() BROOKS,['F421'],,,,
+I182545401107,Leon,Morris,['F41'],,,Bef. 2022,
+I182545401185,Claude,LOTT,"['F65', 'F125']",,,,
+I182545401216,Lenora,BLOCKER,['F125'],,,,
+I182545401364,Melvin,Morris,['F41'],,,bef. 2022,
+I182545401392,Marvin,Morris,['F41'],,,bef. 2022,
+I182545401437,Dorothy,() Bernard,['F375'],,,bef. 2022,
+I182545401484,Claude,Lott,['F125'],,,bef. 2022,
+I182545401900,Abigail,Morris,['F41'],,,,
+I182545401907,Cathy,() Melton,"['F375', 'F26']",,,,
+I182545401909,Shirley,() Gibson,['F375'],,,,
+I182545401912,Brenda,() Wiggins,"['F375', 'F73']",,,,
+I182545401993,Archie,Melton,['F26'],,,,
+I182545402116,Vernell,() Abner,['F375'],,,,
+I182545402175,Jesse,Wiggins,['F73'],,,,
+I182545402234,Joanne,() Harrison,"['F375', 'F129']",,,,
+I182545402249,Melvin,Harrison,['F129'],,,,
+I182545402500,Tasha,Morris,['F41'],,,,
+I182545402529,James,Lott,"['F375', 'F198']",,,,
+I182545402552,Zenora,() Lott,['F198'],,,,
+I182545402584,Ivy,Morris,"['F41', 'F239']",,,,
+I182545402620,Cleavie,() Morris,['F239'],,,,
+I182545402658,Venson,Morris,"['F41', 'F342']",,,,
+I182545402673,Alvin,Morris,['F41'],,,,
+I182545402705,Victoria,() Morris,['F342'],,,,
+I182545402831,Rondell,Morris,['F41'],,,,
+I182545402925,Louie,Lott,"['F13', 'F65']",06 Aug 1890,"Edgefield,  South Carolina, USA",15 Oct 1967,"Johnston, Edgefield, South Carolina, USA"
+I182545402982,Lillie Mae,Abney,"['F37', 'F65']",12 Mar 1892,"Ward, Edgefield, South Carolina, USA",17 Jun 1986,"Johnston, Edgefield, South Carolina, USA"
+I182545403059,Edmund,Lott,['F13'],Jan 1841,"Edgefield, South Carolina, USA",26 Feb 1927,"Saluda, South Carolina, USA"
+I182545403073,Margarett,() Lott,['F13'],abt 1848,South Carolina,11 Dec 1936,"Johnston, Edgefield, South Carolina, USA"
+I182545403097,Philip,Abney,"['F160', 'F37']",Mar 1866,"Ward, Edgefield, South Carolina, USA",5 Dec 1957,"Saluda, South Carolina, USA"
+I182545403105,Lucinda,Davis,"['F180', 'F37']",Apr 1870,"Ward, Edgefield, South Carolina, USA",18 Sep 1938,"Ridge Spring, Saluda, South Carolina, USA"
+I182545403182,Lewis,Abney,['F160'],Mar 1834,"Edgefield, South Carolina, USA",17 Dec 1920,"Gloverville, Aiken, South Carolina, USA"
+I182545403194,Harriet,() Abney,['F160'],abt 1834,"Saluda County, South Carolina, USA",24 Jun 1908,"Saluda, South Carolina, USA"
+I182545403231,James Jim,Davis,['F180'],Aug 1852 or May 1850,"Savannah, Anderson, SC, USA",bet. 1900-1910,"Savannah, Anderson, SC, USA"
+I182545403244,Alice,Coates,['F180'],Aug 1855,South Carolina,Bet. 1900–1910,"Saluda County, South Carolina, USA"
+I182545403316,Sally L,Ables,"['F383', 'F391']",1889,"Ridge Spring, Saluda County, South Carolina, USA",11 Oct 1940,"Aiken, South Carolina, USA"
+I182545403337,Sarah Jane,Gantt,"['F393', 'F383']",abt 1855,South Carolina,22 Feb 1949,"Ridge Spring, Saluda, South Carolina, USA"
+I182545403409,Hester,() Gantt,['F393'],Jul 1839,"Giddy Swamp, Aiken, South Carolina, USA",1905,"Giddy Swamp, Aiken, South Carolina, USA"
+I182545414602,Annie Louise,Cyrus,['F145'],abt 1928,South Carolina,,
+I182545414603,Ollie,Cyrus,['F145'],abt 1930,South Carolina,,
+I182545593480,William T,PARKER,['F29'],Abt 1847,Georgia,,
+I182545593481,Sarah E,() PARKER,['F29'],Abt 1850,Georgia,,
+I182545593482,Ida,Parker,['F29'],Abt 1872,Georgia,,
+I182545593483,J Lee,Parker,['F29'],Abt 1874,Georgia,,
+I182545593486,Modenah,Parker,['F29'],Abt 1877,Georgia,,
+I182545593488,Leakey,Parker,['F29'],Abt. Jan 1880,Georgia,,
+I182545614350,Henry,GRIFFIN,['F425'],,South Carolina,,
+I182546163529,BENJAMIN,BANAHAN,['F32'],,,,
+I182546163561,Benjamin,BANAHAN,"['F281', 'F32']",9 Jan 1933,,19 Oct 2020,"Rocksprings, Edwards, Texas, USA"
+I182546164878,Hart,ANDERSON,"['F183', 'F32']",12 Feb 1933,"Flora, Madison, Mississippi, USA",4 Nov 2018,"Pascagoula, Jackson, Mississippi, USA"
+I182546165087,John R,ANDERSON,['F183'],,,,
+I182546165096,Rebecca,HART,"['F280', 'F183']",,,,
+I182546165166,Michael,Banahan,['F32'],,,,
+I182546165328,Benjamin Franklin,Banahan,"['F195', 'F281']",25 Jun 1902,"Paris, Lamar County, Texas, United States of America",26 Jan 1964,"Jackson, Hinds County, Mississippi, United States of America"
+I182546165336,Mattie Elizabeth,Elliot,"['F247', 'F281']",Jan 27 1904,"Shreveport, Caddo, Louisiana, USA",12 May 1990,"Jackson, Hinds County, Mississippi, United States of America"
+I182546165348,Clara Willie,Simrall,"['F234', 'F280']",2 Jul 1888,Mississippi,18 May 1958,"Satartia, Yazoo, Mississippi, USA yrs 70 F"
+I182546165357,Irma J,Hart,"['F245', 'F280']",22 March 1872,Mississippi,4 August 1944,
+I182546165414,Franklin Charles,Banahan,['F195'],13 October 1868,"Milwaukee, Milwaukee County, Wisconsin, United States of America",8 January 1927,"Shreveport, Caddo Parish, Louisiana, United States of America"
+I182546165425,Maude Josephine,Commander,['F195'],Apr 11 1874,"Hunt, Texas",May 29 1935,"Shreveport, Caddo, Louisiana"
+I182546165440,John Edwin,Elliott,['F247'],14 Sep 1874,"Shreveport, Caddo, Louisiana, USA",16 August 1942,"Shreveport, Caddo Parish, Louisiana, United States of America"
+I182546165445,Carrie Lee,Barnes,['F247'],1876,"Paris, Lamar County, Texas, United States of America",22 February 1956,"Shreveport, Caddo Parish, Louisiana, United States of America"
+I182546165453,James Buford,Hart,"['F333', 'F245']",12 September 1836,"Yazoo City, Yazoo, Mississippi, United States",21 January 1908,"Hart Cemetery, Phoenix, Yazoo Co. MS"
+I182546165468,Bessie Buck,Gill,['F245'],10 Jan 1836,"Watertown, HeJefferson, New York, New York, USA",May 1898,
+I182546165497,Bell Newell,Simrall,"['F328', 'F234']",23 December 1849,"Woodville, Wilkinson County, Mississippi, United States of America",11 November 1913,"Ballground Plantation, Warren County, Mississippi, USA"
+I182546165532,Sue Griffin,Lum,"['F85', 'F234']",1 January 1854,"Vicksburg, Mississippi, USA",22 July 1895,"Vicksburg, Mississippi, USA"
+I182546165564,Harrison Henry,Hart,['F333'],1814,"Phoenix, Yazoo, Mississippi, United States",1871,"Phoenix, Yazoo, Mississippi, United States"
+I182546165713,Eliza Ann,Buford,['F333'],1812,"Mississippi, United States",Jul 1890,"Phoenix, Yazoo Co, MS"
+I182546165719,William Alexander,Simrell,['F328'],11 Aug 1802,Kentucky,21 Aug 1886,"Wilkinson, Mississippi, USA"
+I182546165732,Clara Grisetta,Newell,['F328'],16 Mar 1826,Mississippi USA,21 Jan 1862,woodv
+I182546165742,William Samuel,Lum,['F85'],4 Dec 1822,"Adams, Mississippi, USA",30 May 1899,"Vicksburg, Warren Co, MS"
+I182546165762,Mary Aseneth,Griffin,"['F61', 'F85']",18 October 1823,"Madison, Madison, Mississippi, USA",23 September 1870,"Mississippi, USA"
+I182546165810,Thomas,GRIFFIN,['F61'],24 Sep 1787,"Cumberland, Cumberland, Virginia",1851,"Madison, Madison, Mississippi, United States"
+I182546165823,Mary Ann,FORD,"['F374', 'F66', 'F61']",23 Mar 1796,"Marion, Marion, South Carolina, United States of America",17 Oct 1852,"Madison County, Mississippi, United States of America"
+I182546176568,John Wesley,GRIFFIN,"['F61', 'F228']",Abt 1822,Mississippi,,
+I182546176570,Elizabeth,Griffin,['F228'],Abt 1863,Mississippi,,
+I182546176573,"Marie Louise ""Lou""",Griffin,"['F228', 'F158']",18 Mar 1869,Mississippi,10 May 1945,"Belle Haven, Fairfax, Virginia, USA"
+I182546176575,Willie,Griffin,['F228'],Abt 1874,Mississippi,,
+I182546176753,M. Louise,SKIDMORE,"['F179', 'F228']",abt 1838,Georgia,,
+I182546197422,REBECCA,BANAHAN,"['F32', 'F305']",,,,
+I182546197487,,Avery,['F305'],,,,
+I182546198207,NB,LEWIS,['F401'],,,,
+I182546198379,Ruby Lee,CALDWELL,"['F426', 'F401']",,,,
+I182546198486,Annie Mae,LINDER,"['F419', 'F426']",,,,
+I182546198600,Martha Mattie Pennusla,TUBBS,"['F123', 'F419']",,,,
+I182546198929,"Louisa A ""Lou""",GRIFFIN,"['F384', 'F123']",17 Aug 1850,Louisiana,24 Sep 1908,"Union, Plaquemines, Louisiana, USA"
+I182546198965,Samuel,Griffin,['F384'],About 1799,"Amherst County, Virginia, USA",7 Dec 1850,"Farmerville, Union, Louisiana, USA"
+I182546199055,Benjamin Franklin,TUBBS,"['F413', 'F123']",15 July 1847,"Union Parish, Louisiana, United States of America",12 December 1934,"Laran, Union Parish, Louisiana, United States of America"
+I182546199141,Katie Kathleen,TUBBS,"['F123', 'F259']",5 August 1880,,15 October 1974,
+I182546199162,Rodell,BLACK,"['F259', 'F404']",22 August 1919,,20 May 2003,United States of America
+I182546199213,CHARLOTTE,BLACK PERDUE,['F404'],,,,
+I182546209079,William,Powell,['F158'],,,,
+I182546209146,Crosby Smith,Skidmore,['F179'],Abt 1810,"Madison, Morgan Co., Georgia",Abt 1861,"Mississippi, USA"
+I182546209151,"Elizabeth M ""Eliza""",Baldwin,['F179'],27 Jan 1814,"Greene Co., Georgia",8 Jun 1841,"Greene Co., Georgia"
+I182546213545,Mary L,Griffin,['F228'],abt 1859,Mississippi,,
+I182546213991,Ann,Griffin,['F61'],abt 1826,Mississippi,,
+I182546214077,Susan,Griffin,['F61'],abt 1832,Mississippi,,
+I182546214197,Martha,Griffin,['F61'],abt 1833,Mississippi,,
+I182546214221,Eliza,Griffin,['F61'],abt 1837,Mississippi,,
+I182546214826,Hugh,Ervin,['F66'],1792,,1817,
+I182546214921,Margaret,Ervin,['F223'],abt 1842,Mississippi,,
+I182546214966,"Lucinda J ""Low""",Ervin,['F223'],Abt. 1845,Mississippi,,
+I182546214980,Hugh,Ervin,['F223'],abt 1847,Mississippi,,
+I182546870501,JUANITA,MAGEE STANPHILL,['F367'],,,,
+I182546870839,Margaret,LAWHON,"['F411', 'F367']",1912,,1998,
+I182546870889,"Edward ""Ned""",LAWHON,"['F415', 'F411']",1882,,1953,
+I182546870959,Ida May,GRIFFIN,"['F97', 'F415']",1846,"Madison, Madison, Mississippi, USA",1927,"Madison, Madison, Mississippi, USA"
+I182546875028,Margaret C,ERVIN,"['F66', 'F97']",1816,,1898,
+I182546875060,Hugh W,Ervin,"['F66', 'F223']",1818,Mississippi,Abt. 1855,"Madison, Madison, Mississippi, USA"
+I182546875354,Mary Jane,Ervin,['F223'],abt 1823,Mississippi,,
+I182546875500,George W I,GRIFFIN,['F97'],,,,
+I182547029021,BRIA,McNEIL,['F2'],2000,,,
+I182547029134,,McNEIL,"['F181', 'F2']",,,,
+I182547029151,,TUBBS,"['F46', 'F2']",,,,
+I182547029225,Kenneth Ray,TUBBS,"['F249', 'F46']",19 Oct 1938,Missouri,20 Sep 2020,"Nampa, Canyon, Idaho, USA"
+I182547029264,Karen,CORDREY,"['F345', 'F46']",1943,Oregon,2022,"Nampa, Canyon, Idaho, USA"
+I182547029329,Frank,McNEIL,"['F246', 'F181']",6 May 1930,South Carolina,6 May 2019,Washington
+I182547029342,Wilhelmina,PRICE,"['F339', 'F181']",30 Oct 1932,"Charleston, Charleston, South Carolina, USA",19 Feb 2014,"Gig Harbor Peninsula, Pierce, Washington, USA"
+I182547029756,Melvin,Mc Neil,"['F108', 'F246']",1910,South Carolina,15 Mar 1957,"South Carolina, USA"
+I182547029764,Annie,Durant,"['F55', 'F246']",1909,"Parkers Ferry, South Carolina",18 May 1965,"South Carolina, USA"
+I182547029768,William (Willie),Price,"['F126', 'F339']",abt 1892,"Moncks Corner, Berkeley, South Carolina, USA",20 Dec 1948,South Carolina
+I182547029774,Ella,Smalls,"['F133', 'F339']",27 Jul 1893,South Carolina,Aug 1976,"Charleston, Charleston, South Carolina, United States of America"
+I182547029780,Ruby Marie,Hathcoat,"['F152', 'F345']",15 Feb 1916,"Peggs, Cherokee, Oklahoma, USA",23 Jan 1988,"Nyssa, Malheur, Oregon, USA"
+I182547029784,Stanley Edward,Cordrey,"['F301', 'F345']",5 Jun 1916,"Hopkinsville, Christian, Kentucky, USA",7 Dec 1968,"Washington, District of Columbia, USA"
+I182547542834,Hamilton Leftridge,CORDREY,"['F237', 'F301']",1892,"Dover, Mason, Kentucky, USA",1953,
+I182547542940,Mabel C,FORD,"['F317', 'F301']",1895,Kentucky,1982,"Marion, Grant, Indiana, USA"
+I182547542990,Laborn Gaines,Ford,"['F63', 'F317']",2 March 1863,Kentucky,16 Aug 1904,"Hopkinsville, Christian, Kentucky, USA"
+I182547543013,Luella J,Driskill,['F317'],29/December/1863,"Muhlenberg County, Kentucky, USA",7/March/1902,"Muhlenberg County, Kentucky, USA"
+I182547543043,John Laborn,Ford,"['F372', 'F63']",11 Oct 1811,"Caswell, North Carolina",12 Apr 1898,"Greenville, Muhlenberg, Kentucky"
+I182547543077,Levi,Ford,"['F376', 'F372']",1784,"Caswell County, North Carolina, USA",1850,"Hamilton County, Tennessee, USA"
+I182547543125,Simeon,FORD,"['F379', 'F376']",1750,"Hanover, Virginia, USA",01 Sep 1833,"Hogans Creek, Caswell, North Carolina, USA"
+I182547543255,John S.,Ford,"['F364', 'F374']",27 Feb 1767,"Marion, Marion, South Carolina, USA",14 Feb 1826,"Sandy Hook, Marion, Mississippi, USA"
+I182547543292,Thomas Larkin,Ford,['F379'],1730,"Goochland, Goochland, Virginia, USA",11 Jun 1791,"Caswell County, North Carolina, USA"
+I182547543310,"James, Captain",Ford,['F364'],9 Aug 1715,"Drowning Creek, Robeson, North Carolina, American Colonies",1804,"Marion, Marion, South Carolina, USA"
+I182547543404,Solomon,McNeil,['F108'],1867,"Colleton County, South Carolina, USA",,"South Carolina, USA"
+I182547543431,Janie,() McNeil,['F108'],2 Jul 1883,South Carolina,15 Jan 1975,
+I182547543448,Sarah,Frasier,['F55'],abt 1878,"mount pleasant South Carolina, USA",28 Oct 1950,"Charleston, South Carolina, USA"
+I182547543459,Prince,Price,['F126'],1859,"Moncks Corner, Berkeley, South Carolina, USA",15 Dec 1927,South Carolina
+I182547543470,Elsie,Wescoat,['F126'],1862,"Moncks Corner, Berkeley, South Carolina, USA",9 Mar 1903,South Carolina
+I182547543474,Robert,Small Smalls,['F133'],1865,South Carolina,27 Sep 1928,South Carolina
+I182547543482,Margaret,McMillan,['F133'],1867,South Carolina,,
+I182547543530,Josie Anne,Thompson,"['F257', 'F152']",26 May 1884,"Tahlequah, Cherokee, Oklahoma, United States",9 October 1965,"Nowata, Nowata, Oklahoma, United States"
+I182547543557,Charles Newton,Hathcoat,"['F260', 'F152']",18 Aug 1875,"Lawrence, Lawrence, Arkansas, United States",7 Jul 1957,"Nowata,Nowata,Oklahoma,USA"
+I182547543578,James Wesley,Thompson,['F257'],"March 15, 1852","Ivy Log, Union, Georgia, USA","Dec 19, 1925","Tahlequah, Cherokee, Oklahoma, USA"
+I182547543586,Artemesa Elizabeth Florence,Campbell,['F260'],5 Jan 1851,"Lawrence County, Arkansas, USA",Jan 1878,Arkansas
+I182547543592,James Knox Polk,Hathcoat,['F260'],22 Mar 1848,"Chatanooga, Hamilton, Tennessee, USA",8-15-1935,"Nowata County, Oklahoma, United States of America"
+I182547543599,"Mary Elizabeth ""Lizzie""",Gilespie,['F237'],"Feb. 8, 1878","Dover, Mason, Kentucky, USA","Feb. 4, 1935","Hamilton, Butler, Ohio, USA"
+I182547544090,E,COLEMAN ROWE,['F6'],,,,
+I182547544180,,McGARY,['F6'],,,,
+I182547544193,,COLEMAN,"['F23', 'F6']",,,,
+I182547544224,E A,COLEMAN,"['F156', 'F23']",Abt. 1910,Texas,,"Woodville, Tyler, Texas, USA"
+I182547544269,Mary E,() COLEMAN,['F23'],,,,"Kountze, Hardin, Texas, USA"
+I182547544324,Cuffy,COLEMAN,['F156'],,,,
+I182547544331,Cora,SHANKLE,"['F193', 'F156']",11 Aug 1879,"Newton, Texas",2 Sep 1955,"Jamestown, Newton, Texas, USA"
+I182547544442,George N,SHANKLE,['F193'],1850,"Newton County, Texas, USA",,
+I182547544443,Emmeline,FORD,['F193'],1864,"Newton County, Texas, USA",,
+I182547544561,Mary,Shankle,['F193'],1892,Texas,,
+I182547544562,Essie,Shankle,['F193'],1896,Texas,,
+I182547544563,Estha,Shankle,['F193'],1898,Texas,,
+I182547544564,Myra,Shankle,['F193'],1901,Texas,,
+I182547544565,Zemma,Shankle,['F193'],1903,Texas,,
+I182547544817,Tom Jefferson,Shankle,['F193'],29 Feb 1884,"Burkeville N, Texas",,
+I182547545151,CHARISSA,BLANTON,['F20'],,,,
+I182547545242,James Barrie,BLANTON,"['F39', 'F20']",1933,"Whitewright, Grayson, Texas, USA",2018,"Whitewright, Grayson, Texas, USA"
+I182547545264,,HOOVER,"['F47', 'F20']",,,,
+I182547545294,Roy Glenn,Blanton,"['F120', 'F39']",14 JUL 1899,"Ardmore, IndianTerritory, Chickasaw Nation, United States",11 APR 1989,"Denison, Grayson County, Texas, United States"
+I182547545306,Shirley Gladine,Gates,"['F186', 'F39']",1 Oct 1915,"Van Zandt County, Texas, USA",20 Apr 2013,"Savoy, Fannin County, Texas, USA"
+I182547545313,W Freeman,HOOVER,"['F105', 'F47']",1901,Tennessee,1961,Tennessee
+I182547545404,Irene,EARP,"['F154', 'F47']",1901,Tennessee,1988,
+I182547545428,Charles Samuel,Blanton,"['F139', 'F120']",14 Nov 1876,"Fannin, Texas",14 Dec 1944,"Whitewright, Grayson, Texas, United States"
+I182547545455,Willis Mattison,Gates,"['F144', 'F186']",29 May 1884,"Pineville, Rapides Parish, Louisiana, USA",6 Sep 1970,"Whitewright, Grayson County, Texas"
+I182547545465,"Gracie Arzelia ""Zelia""",Gates,"['F150', 'F186']",10 Dec 1883,"Black Creek, Grant Parish, Louisiana, USA",13 Jan 1971,"Whitewright, Grayson County, Texas, USA"
+I182547545503,Priscilla Virginia,Cowan,"['F263', 'F120']","20, March 1880","Eden, St Clair, Alabama, United States","30, July 1940","Whitewright, Grayson County, Texas, United States"
+I182547545538,Benjamin Franklin,Blanton,['F139'],11 Nov 1843,"Rutherford County, North Carolina, USA",2 Mar 1935,"Whitewright, Grayson, Texas, USA"
+I182547545555,Julia Ann,Blanton,['F139'],4 Aug 1847,"Rutherford County, North Carolina, United States of America",20 Feb 1947,"Whitewright, Grayson, Texas, USA"
+I182547545566,James Newton,Gates,['F144'],07 Sep 1854,"Rankin, Mississippi, USA",05 Jul 1945,"Winnfield, Winn, Louisiana, USA"
+I182547545576,Mary Louisiana 'Lou',Brian,['F150'],30 Jul 1853,"Pollock, Grant Parish, Louisiana, USA",01 Jan 1885,"Black Creek, Grant Parish, Louisiana, USA"
+I182547545582,John Bedford,Gates,['F150'],27 Jan 1849,"Quitman, Clarke County, Mississippi, USA",28 Oct 1918,"Carthage, Panola County, Texas, USA"
+I182547545588,Cordelia Adeline,Brittain,['F144'],05 Mar 1859,"Rapides, Louisiana, USA",28 May 1924,"Winnfield, Winn, Louisiana, USA"
+I182547545598,"Martha Jane ""Jennie""",Morgan,"['F251', 'F154']",June 1875,"Rutherford County, Tennessee, USA",15 Feb 1930,"Big Springs (Rutherford County), Rutherford County, Tennessee, USA"
+I182547545599,Ralph Marion,Earp,"['F286', 'F154']",11 July 1868,"Coffee County, Tennessee, USA",30 Nov 1915,"Big Springs (Rutherford County), Rutherford County, Tennessee, USA"
+I182547545614,"Melissa ""Lizzie""",Pearson,"['F205', 'F251']",27 Jul 1854,"Rutherford County Tennessee, USA",12 Jan 1922,"Big Springs Rutherford County Tennessee, USA"
+I182547545631,James Manuel,Morgan,"['F408', 'F251']",30 January 1856,"Rutherford County, Tennessee, United States of America",19 October 1936,"Big Springs (Rutherford County), Rutherford County, Tennessee, USA"
+I182547545646,Melissa Angelina?,Brasher,"['F273', 'F263']",Mar 1857,"St Clair, Alabama, United States",1906,"Little Rock, Pulaski, Arkansas, United States"
+I182547545650,Hiram M,Cowan,['F263'],25 Dec 1852,Alabama,19 Apr 1934,"Whitewright, Grayson, Texas, USA"
+I182547545667,John J,Brasher,['F273'],1808,"Greenville, Greenville, South Carolina, United States",20 Mar 1885,"Winston, Mississippi, United States"
+I182547545680,Elizabeth,Dollar,['F273'],1812,"Elbert County, Georgia, USA",12 Jun 1890,"Shelby Co., Ala."
+I182547545707,Thomas Jefferson,Earp,"['F118', 'F286']",6 Jun 1841,"Tennessee, USA",7 Apr 1935,"Holladay, Benton, Tennessee"
+I182547545714,"Lydia Jane ""Lettie""",Guest,"['F124', 'F286']",20 SEP 1847,"Murfreesboro, Rutherford, Tennessee, USA",6 FEB 1922,"Rutherford County, Tennessee, USA"
+I182547545745,Saroni Serenia Pearson,Todd,['F205'],1829,"Tennessee, United States of America",1909,"Rutherford County, Tennessee, United States of America"
+I182547545754,William F,Pearson,['F205'],15 Oct 1824,Tennessee,4 June 1911,"Rutherford County, Tennessee, USA"
+I182547546502,Martha,Burks,['F408'],abt 1837,"Coffee County, Tennessee",Aft. 1880,"Davidson County, Tennessee"
+I182547546515,Jefferson,Earp,['F118'],abt 1804,"Georgia accouring to the, Coffee, Tennessee, United States",3 Oct 1886,"Coffee,,Tennessee,USA"
+I182547546522,Martha,Brown,['F118'],1810,"Virginia, United States",Dec 1879,"Coffee, Tennessee, United States"
+I182547546530,John Dervin,Guest,['F124'],18 Jan 1823,"Warren County, Tennessee, USA",Jan 1905,"Rutherford County, Tennessee, USA"
+I182547546547,Celia Jane,Mankin,['F124'],19 Aug 1825,"Rutherford County, Tennessee, USA",17 Nov 1917,"Rutherford, Tennessee, United States"
+I182547548290,SANDRA,BYRD,['F359'],,,,
+I182547548408,Julia Ann,OWENS,"['F370', 'F359']",,,,
+I182547548441,Marjorie,COLVIN,"['F170', 'F370']",abt 1910,Alabama,,
+I182547548458,John T,COLVIN,['F170'],abt 1872,Alabama,,
+I182547548479,Lillie Belle,CHAMBERS,['F170'],abt 1877,Alabama,,
+I182547548527,Lucius William,COLVIN,"['F170', 'F187']",1910,,1978,
+I182547548563,Earnestine,COLVIN,"['F187', 'F385']",,,,
+I182547548598,,TAYLOR,"['F385', 'F392']",,,,
+I182547548653,JOHNATHAN,TAYLOR,['F392'],,,,
+I182547548719,Lucille,WHITE,['F187'],,,,
+I182547548736,,COLVIN,"['F187', 'F272']",,,,
+I182547548770,Oscar,MARTIN,['F272'],,,,
+I182547548794,OSCAR,MARTIN,['F272'],,,,
+I182547549283,Essie,Colvin,['F170'],abt 1907,Alabama,,
+I182547549284,Rosa,Colvin,['F170'],abt 1912,Alabama,,
+I182547549285,Judge,Colvin,['F170'],abt 1913,Alabama,,
+I182547549286,Lillie,Colvin,['F170'],abt 1915,Alabama,,
+I182547549287,Hester,Colvin,['F170'],abt 1918,Alabama,,
+I182547549288,Wilburt,Colvin,['F170'],abt 1920,Alabama,,
+I182547602832,"Simuel Perry ""Buck""",TURNER,"['F322', 'F116']",,,,
+I182547603023,MARION LOUISE,TURNER,['F116'],1924,,2017,
+I182547603106,Mary Elizabeth,TURNER,"['F116', 'F215']",,,,
+I182547603120,James Athey,JOHNS,['F215'],,,,
+I182547603142,BARBARA,JOHNS LLOYD,['F215'],,,,
+I182547603343,Jacqueline Elizabeth,TURNER,"['F116', 'F294']",,,,
+I182547603379,Charlie E,HALLMAN,['F294'],,,,
+I182547603397,RICKY,HALLMAN,['F294'],,,,
+I182547604426,James Robert,Turner,"['F330', 'F322']",25 Nov 1859,"Georgia, United States",8 Aug 1925,"Jenkins, Wilkes, Georgia, USA"
+I182547604432,"Susan S.. ""Josie""",Clark,['F322'],"March 7, 1864","Emanuel, Georgia","January 4, 1950","Millen, Jenkins, Georgia"
+I182547604442,William M,Turner,['F330'],8 April 1833,South Carolina,2 April 1862,"Jenkins County, Georgia"
+I182547604446,Lucinda,Aaron,"['F262', 'F330']",2 Jun 1831,"Georgia, USA",2 Dec 1903,United States
+I182547610137,Trellis,Black,['F259'],2 May 1916,"Union Parish, Louisiana, United States of America",18 August 2002,"Louisiana, United States of America"
+I182547610138,Loduskee,Black,"['F259', 'F240']",1906,"Louisiana, United States of America",1983,United States of America
+I182547610139,Margo,Black,"['F259', 'F220']",11 December 1912,"Laran, Union Parish, Louisiana, United States of America",19 January 1983,"Louisiana, United States of America"
+I182547610140,Lonnie Roy,Black,['F259'],17 February 1905,,18 March 1977,
+I182547610141,Leona,Black,"['F259', 'F232']",8 November 1903,,1 May 1988,
+I182547610142,Curtis,Black,['F259'],27 September 1910,"Laran, Union Parish, Louisiana, United States of America",9 December 1967,"El Dorado, Union County, Arkansas, United States of America"
+I182547610143,Clyde,Black,['F259'],11 December 1908,"Louisiana, United States of America",22 April 1993,"Genesee County, Michigan, United States of America"
+I182547610144,Arrie Thomas,Black,['F259'],8 December 1880,"Laran, Union Parish, Louisiana, United States of America",17 January 1957,"Farmerville, Union Parish, Louisiana, United States of America"
+I182547610293,,Tucker,['F220'],,,,
+I182547610317,,McCormick,['F232'],,,,
+I182547610331,,Ham,['F240'],,,,
+I182547611149,Ralph,TUBBS,"['F289', 'F249']",10 May 1898,Nebraska,15 May 1969,
+I182547611150,"Addie Marie ""Marie""",() TUBBS,"['F406', 'F249']",1911,Missouri,30 May 1977,Oregon
+I182547611257,George B,Tubbs,"['F238', 'F289']",16 Jan 1847,"Warren, Co, N York, New York, USA",5 Oct 1929,"Page, Holt County, Nebraska, USA"
+I182547611279,Benjamin Marion,Tubbs,"['F399', 'F413']",Abt. 1816,"Perry County, Alabama, USA",May 1880,"Spearsville, Union Parish, Louisiana, USA"
+I182547611320,Samuel,Tubbs,['F399'],1789,"Rutherford County, North Carolina, USA",1866,"Bibb County, Alabama, USA"
+I182547611344,Nathaniel,Tubbs,['F238'],8 Sept 1804,"Queensbury, Warren, New York, USA",27 Dec 1883,"Maquoketa, Jackson County, Iowa, USA"
+I182547611567,Sarah Jane,Dudley,"['F310', 'F289']",19 Nov 1865,"Unionville, Appanoose County, Iowa, USA",8 Jan 1925,"Holt County, Nebraska, USA"
+I182547611583,William Henry,Dudley,['F310'],November 1842,"Bartholomew County, Indiana, United States of America",1 April 1924,"Cope, Washington County, Colorado, United States of America"
+I182547611591,T. Holly,Lockman,['F310'],6 Feb 1846,"Perry, Davis, Iowa",16 Aug 1929,"Cope, Washington County, Colorado"
+I182547611881,Albert,Mcneil,['F55'],abt 1904,South Carolina,,
+I182547611882,Rosa,Mcneil,['F55'],abt 1912,South Carolina,,
+I182547611883,William,McNeil,['F55'],abt 1893,South Carolina,,
+I182547613721,STELLA,SAIN HARRIS,['F99'],,,,
+I182547613807,Ethel Lee,PERKINS,"['F42', 'F99']",19 Feb 1928,Arkansas,,
+I182547613908,Lucille,DRIVER,"['F112', 'F42']",18 Feb 1913,"Holly Springs, Mississippi",20 Dec 1988,"Chicago, Cook, Illinois, USA"
+I182547614088,John Thomas,DRIVER,['F112'],abt 1882,Mississippi,,
+I182547614089,Pearl,HAMILTON,"['F112', 'F428']",abt 1883,Mississippi,,
+I182547614164,Almar,SAIN,['F99'],1910,Arkansas,,
+I182547614245,Luella,Perkins,['F42'],6 May 1933,"Palestine, St Francis, Arkansas, USA",17 Sep 2001,
+I182547614246,Worley V,Perkins,['F42'],abt 1935,Arkansas,,
+I182547614247,Robert,PERKINS,"['F148', 'F42']",abt 1909,Arkansas,Bef. 1950,
+I182547615204,Willie D,Perkins,['F148'],1903,Arkansas,,
+I182547615205,Ora L,Perkins,['F148'],1904,Arkansas,,
+I182547615206,Pinke,PERKINS,"['F318', 'F148']",May 1877,"Mississippi, USA",,
+I182547615207,Willie,BONDS,"['F202', 'F148']",1882,Mississippi,,
+I182547615373,Charley,BONDS,['F202'],abt 1847,Mississippi,,
+I182547615378,Laura,() BONDS,['F202'],abt 1856,Mississippi,,
+I182547615694,Hester,() PERKINS,['F318'],Aug 1854,"North Carolina, USA",,
+I182547615695,Max,PERKINS,['F318'],Jan 1844,"Tennessee, USA",,
+I182547616208,Josie,Driver,['F112'],abt 1913,Mississippi,,
+I182547616209,Willie,Driver,['F112'],abt 1916,Mississippi,,
+I182547616210,Minnie,Driver,['F112'],abt 1917,Mississippi,,
+I182547633002,Eugene,Harris,['F428'],abt 1908,Arkansas,,
+I182547633707,Robert L,Sain,['F99'],abt 1948,Arkansas,,
+I182547633720,Betty J,Sain,['F99'],abt 1949,Illinois,,
+I182547635031,J W,Hoover,['F47'],abt 1921,Tennessee,,
+I182547635032,Lucille,Hoover,['F47'],abt 1923,Tennessee,,
+I182547635033,Mattie Mae,Hoover,['F47'],abt 1924,Tennessee,,
+I182547635035,Madine,Hoover,['F47'],abt 1927,Tennessee,,
+I182547635038,Marie,Hoover,['F47'],abt 1930,Tennessee,,
+I182547635041,Freeman,Hoover,['F47'],abt 1933,Tennessee,,
+I182547635042,James,Hoover,['F47'],abt 1937,Tennessee,,
+I182547635325,William Jasper,HOOVER,"['F56', 'F105']",1869,Tennessee,,
+I182547635326,Luda,() HOOVER,"['F28', 'F105']",1885,Tennessee,,
+I182547635327,Mary A,Hoover,['F105'],1904,Tennessee,,
+I182547635328,Alfred,Hoover,['F105'],1907,Tennessee,,
+I182547635329,Ethel,Hoover,['F105'],1910,Tennessee,,
+I182547635380,"Susan M ""Sally""",Pearson,['F28'],1853,"Rutherford Co, TN, USA",bef 1890,", Lincoln, Tennessee, USA"
+I182547635431,John Henry,Spray,['F28'],09/1849,"Rutherford Co, TN",27 Apr 1932,Rutherford Co. TN
+I182547635440,Margaret E.,Rawlings,['F56'],ABT 1837,"Tennessee, USA",1875,TN
+I182547635451,Mathias Wesley,Hoover,['F56'],Abt 1837,"Rutherford, Tennessee, USA",,
+I182547635811,JOLIE MERIE,BUSTARD,"['F222', 'F207', 'F224']",Sep 1977,,,
+I182547635900,Arlene Marie,BUSTARD,"['F121', 'F222']",19 Nov 1956,"Douglas, Nebraska, USA",,
+I182547636067,John Elden,BUSTARD,"['F136', 'F121']",1929,"Grosse Pointe Shores, Macomb, Michigan, USA",2013,"Edmonds, Snohomish, Washington, USA"
+I182547636645,Anna E,GAPA,"['F143', 'F121']",1931,"Shawnee County, Kansas, USA",,"Edmonds, Snohomish, Washington, USA"
+I182547636678,John Eldon,Bustard,"['F387', 'F136']",18 February 1903,"Lincoln, Lancaster County, Nebraska, United States of America",12 April 1963,"Lincoln, Lancaster County, Nebraska, United States of America"
+I182547636684,Martha,Heizenraeder,['F136'],1905,Russia,5 January 1985,"King County, Washington, United States of America"
+I182547636692,Stanislaus Koska Paul,Gapa,"['F25', 'F143']","Aug. 17, 1885","Dembno, Poland","June 4, 1996","Kansas City, Kansas"
+I182547636700,Minttie Lee Mary,Holt,"['F390', 'F143']","Oct 25, 1901","Franklin, Robertson, Texas, USA","June 4, 1988","Lakewood, Jefferson, Colorado"
+I182547636893,Gary Hamilton,Bixby,['F207'],,,,
+I182547636927,,Josephson,['F224'],,,,
+I182547637405,John Wilber,Bustard,"['F38', 'F387']",13 Jan 1869,"Mount Pleasant, Henry County, Iowa, USA",5 Dec 1949,"Aledo, Mercer County, Illinois, USA"
+I182547637412,"Parmelia Delane ""Pearl""",Wilson,"['F57', 'F390']",15 AUG 1884,", Dallas, Texas, USA",2 Sep 1978,"Fort Worth, Tarrant, Texas, USA"
+I182547637417,Francisca,Kubacki,"['F361', 'F25']",25 November 1863,"Wyrzysk, Wielkopolskie, Poland",29 December 1927,"Manitowoc, Wisconsin, United States"
+I182547637424,Franciszek,Gapa,"['F362', 'F25']",2 February 1862,"Topola, District of Wyrzysk, Poland",24 June 1916,"Manitowoc County, Wisconsin, USA"
+I182547637442,Robert L,Bustard,['F38'],Aug 1835,Donegal Ireland,18 JUN 1904,
+I182547637456,Jane,Birney,['F38'],Aug 1835,"Downegall, Ireland",15 Apr 1920,"New Boston. Mercer, Illinois, USA"
+I182547637467,Bartholomaeus,Gapa,['F362'],1821,Poland,3 January 1914,"Manitowoc, Manitowoc County, Wisconsin, United States of America"
+I182547637475,Franciscus,Kubacki,['F361'],1836,"Wyrzysk, Wielkopolskie, Poland",September 1902,
+I182547637490,John Brack,Wilson,['F57'],10 Dec 1860,"Prairie Plains, Walker County, Texas, USA",25 Mar 1890,"Montgomery County, Texas, USA"
+I182547637502,Susan  Delane,Carpenter,['F57'],15 Sept 1865,"Van Zandt, Texas, USA",8 Nov 1911,"Grand Prairie, Tarrant, Texas, USA"
+I182547639977,VIA,BANKS,['F348'],,,,
+I182547640111,Donald Linzy,BANKS,"['F353', 'F348']",19 Dec 1942,"Brownsville, Cameron, Texas, USA",29 Sep 2016,"Temple, Bell, Texas, USA"
+I182547640126,,GRAY,"['F302', 'F348']",,,,
+I182547640146,Martha Nell,Newman,"['F68', 'F353']",21 December 1922,"Granbury, Hood, Texas, USA",21 March 2011,"Brownwood, Brown, Texas, USA"
+I182547640162,Miles Fikes,Banks,"['F336', 'F353']",10 September 1918,"Robert Lee, Texas",11 August 1976,"Brownwood, Brown, Texas, USA"
+I182547640221,Irvin Audith,GRAY,"['F71', 'F302']",2 Aug 1910,,10 Mar 1979,"Stephens County, Texas, USA"
+I182547640290,Olene,ROGERS,"['F420', 'F302']",4 Jan 1916,"Stephens County, Texas, USA",29 May 2003,"Ranger, Eastland, Texas, USA"
+I182547640305,Miles Henry,Banks,"['F7', 'F336']",7 December 1885,"Mason, Texas, USA",15 Oct 1918,"Thurber, Erath, Texas, United States"
+I182547640310,Carrie Helen,Fikes,"['F9', 'F336']",30 Sep 1891,"Mason, Texas, USA",05 Jun 1982,"Brady, McCulloch, Texas, USA"
+I182547640319,James Linzy,Newman,"['F16', 'F68']",15 Sept 1895,"Munford, Talladaga,Alabama,",7 May 1983,"Brady, McCollough, Texas, US"
+I182547640331,Serena Jane,Britt,"['F58', 'F68']",23 Feb 1897,"Cleburne, Johnson County, Texas, United States of America",30 June 1974,"Brownwood, Brown County, Texas, United States of America"
+I182547640345,William David,Gray,"['F52', 'F71']",29 Apr 1886,"Llano, Llano, Texas, USA",23 Feb 1961,"Ranger, Eastland, Texas, USA"
+I182547640349,Lela Dale,Yoes,"['F44', 'F71']",5 Jan 1888,"Williamson Co., TX",19 Oct 1983,"Ranger, Eastland, Texas, USA"
+I182547640369,Asa Napoleon,Rodgers,"['F27', 'F420']",24 Nov 1888,"Limestone County, Texas, USA",11 Jul 1953,"Breckenridge, Stephens, Texas, USA"
+I182547640448,William Henry,Banks,['F7'],11 Jan 1850,"Little Rock, Pulaski, Arkansas, USA",19 Oct 1942,"Katemcy, Mason, Texas, USA"
+I182547640460,Nancy Rebecca,Awalt,['F7'],26 Mar 1847,"Washburn, Scott, Arkansas",24 Jan 1920,"Red Rock, Bastrop, Texas, USA"
+I182547640463,"James Marion ""Jim""",Fikes,['F9'],18 Dec 1852,"Meridian, Lauderdale, Mississippi, USA",31 Jul 1928,"Katemcy, Mason, Texas, USA"
+I182547640468,Sallie Eugeina,Whalley,['F9'],26 Jun 1857,"Arkansas, USA",29 Nov 1930,"Mason, Mason, Texas, USA"
+I182547640476,John Wesley,Newman,"['F283', 'F16']",20 May 1847,"Collinsville, De Kalb, Alabama, United States",21 nov 1930,"Granbury, Hood Co., Texas, United States"
+I182547640491,Martha Luraney,Walker,['F27'],24 Jul 1860,"Calcasieu Parish, , Louisiana, USA",24 Apr 1952,"Breckenridge, Stephens County, Texas, USA"
+I182547640497,James Morgan,Rodgers,['F27'],6 Feb 1858,"Georgia, USA",13 Jan 1930,"Breckenridge, Stephens, Texas, USA"
+I182547640536,Emily Jane,Boydston,['F44'],6 Dec 1851,"Prairie County, Arkansas, USA",4 Jun 1932,"Necessity, Stephens, Texas, USA"
+I182547640549,John Dedrick,Yoes,['F44'],29 Dec 1850,"West Fork, Washington, Arkansas, USA",20 Mar 1928,"Necessity, Stephens, Texas, USA"
+I182547640558,Susan Henrietta,Lewis,"['F368', 'F52']",28 Feb 1870,"Blountville, Blount County, Alabama, USA",15 Aug 1906,"Caddo, Stephens, Texas, USA"
+I182547640561,John Wesley,Gray,['F52'],19 Oct 1861,"Bastrop, Bastrop, Texas, USA",29 Jul 1951,"Wichita Falls, Wichita, Texas, USA"
+I182547640569,"Georgia Henrietta ""Georgie""",Jones,['F58'],04 Aug 1874,"Milton, Georgia, USA",02 Jun 1946,"Granbury, Hood, Texas, USA"
+I182547640576,"Adeline  Evan ""Addie""",Teague,"['F214', 'F16']",1 December 1860,"Munford, Talladega, Alabama, USA",5 Jun 1942,"Granbury, Hood Co., Texas, United States"
+I182547640579,Joel Joseph Hughey,Britt,"['F221', 'F58']",8 oct 1872,"Madison County, Alabama, USA",29 Apr 1944,"Thorp Spring, Hood Co., TX"
+I182547640718,William Leggett,Lewis,"['F382', 'F368']",04 Apr 1816,"Blountsville, Blount, Alabama, USA",19 Sep 1898,"Llano, Llano, Texas, USA"
+I182547640738,Mordica Dee,Lewis,['F382'],1789,South Carolina,1845,"Blount, Alabama, United States"
+I182547640941,Samuel Sterling,Newman,['F283'],7 September 1822,"Warren, Georgia, United States",2 December 1903,"Tallapoosa, Alabama, United States"
+I182547640943,Louisa Clementine,Musick,['F283'],1826,"Randolph, Georgia, United States",1875,"Tallapoosa, Alabama, United States"
+I182547640995,Elijah J.,Teague,['F214'],ABT 1815,"Laurens County, South Carolina, USA",1864,"RAndolph, Randolph, Alabama, United States"
+I182547641004,Harriet,Caldwell,['F214'],1818,"South Carolina, USA",30 Sep 1919,"Cherokee County, Alabama, USA"
+I182547641011,Rueben,Britt,['F221'],Feb 1843,"Benton, Lowndes, Alabama, USA",30 Oct 1909,"Granbury, Hood, Texas, United States"
+I182547641018,Serenia (Serena) J.,Armstrong,['F221'],12 Dec 1842,"Alabama, United States",1892,"Marystown, Johnson, Texas, USA"
+I182547652827,SAM,SEARCY,['F225'],,,,
+I182547653138,Wesley David,SEARCY,"['F241', 'F225']",17 Feb 1880,"Dale County, Alabama, USA",18 Feb 1983,"Houston County, Alabama, USA"
+I182547653284,Mary Elmira,FAULK,"['F340', 'F225']",18 Nov 1913,"Houston County, Alabama, USA",28 Jun 2001,"Houston County, Alabama, USA"
+I182547653370,George  Washington,Searcy,"['F347', 'F241']",13 Jun 1828,"Alabama, USA",15 Aug 1914,"Henry, Alabama, USA"
+I182547653382,"Sarah Ann ""Sallie""",Webb,"['F352', 'F241']",04 May 1844,"Georgia, USA",04 Jul 1926,"Esto, Holmes, Florida, USA"
+I182547653395,John Bryant,Faulk,"['F357', 'F340']","JUNE 9,1882","Henry, Alabama, United States","OCTOBER 21, 1971","Houston, Alabama, United States"
+I182547653400,Emma Lennie,Thomley,"['F303', 'F340']",23 Jun 1886,"Dale, Alabama, United States",17 Oct 1967,"Dothan, Houston, Alabama, United States"
+I182547653433,George Washington,Searcy,"['F70', 'F347']",1785,"Cumberland County, North Carolina, USA",Dec 1850,"Talbot County, Georgia, USA"
+I182547653448,Mary L,Prince,"['F64', 'F347']",1780,"North Carolina, United, States, Or, England",1854,"Barbour, Alabama, United States"
+I182547653468,Edmund Berry,Webb,"['F91', 'F352']",25 Jul 1819,Georgia,Abt. 1879,"Newton, Dale CO, AL"
+I182547653471,"Elizabeth ""Eliza""",Webb,['F352'],Abt. 1821,Georgia,Bef. 1867,"Cuthbert, Randolph CO, GA, USA"
+I182547653480,William Henry,Faulk,"['F92', 'F357']",6 May 1855,"Henry, Alabama, United States",29 Jun 1926,"Malvern, Henry, Alabama, United States"
+I182547653488,Lucy Elmira,Pullen,"['F103', 'F357']",1855-07-00,"Tallapoosa, Alabama",11 Sep 1930,"Malvern, Geneva, Alabama"
+I182547653497,"Benjamin ""Ben""",Thomley,"['F14', 'F303']",5 Aug 1856,"Dale, Alabama, United States",9 Nov 1913,"Dale, Alabama, United States"
+I182547653507,Mary Jane,Watford,"['F12', 'F303']",14 October 1863,"Wicksburg, Houston, Alabama, United States",18 January 1936,"Dale, Houston, Alabama, United States"
+I182547653630,Aaron,Searcy,['F70'],Abt. 1763,"Granville, North Carolina, USA",4 Nov 1839,"Baldwin, Georgia, United States"
+I182547653640,Sarah Jane,Smith,['F70'],Jul 1765,"Granville County, North Carolina, USA",Jul 1845,"Baldwin County Georgia, USA"
+I182547653651,Josiah,Prince,['F64'],23 Apr 1753,"Moor Crichel, Dorset",1794,"Moor Crichel, Dorset"
+I182547653693,Elizabeth,() Prince,['F64'],Abt 1753,,abt 1834,"North Carolina, USA"
+I182547653711,John Waggoner,Webb,['F91'],08 OCT 1787,"Wilkes, Warren, Georgia, USA",21 JUL 1870,"Webb Family Cemetery Blount, Monroe, Georgia, USA"
+I182547653721,Margaret,Green,['F91'],24 DEC 1790,"Georgia, USA",07 JUL 1843,"Webb Family Cemetery.Blount, Monroe, Georgia, USA"
+I182547653726,Alva D,Faulk,['F92'],1833,",Robeson,North Carolina,USA",1863-06-01,"Richmond,,Virginia,USA"
+I182547653733,Melvina,Jackson,['F92'],01 Oct 1836,"Abbeville, Henry County, Alabama",02 Oct 1925,"Haleburg, Henry County, Alabama"
+I182547653735,Roland,Pelham,['F103'],1 Jan 1808,"Hancock County, Georgia, USA",1880,"Abbeville, Henry, Alabama, United States"
+I182547653739,Sidney D.,Baggett,['F103'],abt 1813,"Georgia, USA",,"Alabama, USA"
+I182547653751,William Henry,Thomley,['F14'],17 Sep 1817,"Georgia, United States",22 Sept 1905,"Dale, Alabama, United States"
+I182547653762,Elizabeth Jane,Releford,['F14'],24 Jul 1827,"Georgia, USA",31 May 1905,"Wicksburg, Houston Co., Alabama"
+I182547653765,Barnabas Berry,Watford,['F12'],21 April 1832,Darlington Dist. SC,10 May 1897,"Alabama, USA"
+I182547653770,Elidia,Cooley,['F12'],1839,"Dale, Alabama, USA",30 Jun 1904,
+I182547680954,John,Webb,['F352'],Abt. 1845,Georgia,,
+I182547680970,Susan A,Webb,['F352'],abt 1849,Georgia,,
+I182547681082,Frances J,Webb,['F352'],abt 1855,Georgia,,
+I182547681139,Eliza A,Webb,['F352'],abt 1859,Georgia,,
+I182547685253,KIMBERLY ANN,OLIVER,"['F17', 'F107']",16 Nov 1973,"Christian, Kentucky, USA",,
+I182547685477,Melvin,OLIVER,"['F115', 'F17']",8 May 1934,"West Point, Clay, Mississippi, USA",9 Jan 2004,"Clarksville, Montgomery, Tennessee, USA"
+I182547685504,Sallye Will,BLANCHARD,"['F10', 'F17']",abt 1936,Mississippi,,
+I182547685520,Tommie,BLANCHARD,"['F308', 'F10']",13 May 1905,"Prairie, Mississippi",7 Mar 2002,"Fulton, Miss."
+I182547685768,Melvin,OLIVER,['F115'],abt 1907,Mississippi,,
+I182547685769,Allener,PERRY,"['F212', 'F115']",20 Nov 1905,"Clay, Mississippi",3 Oct 1989,
+I182547685771,Cassandra,Oliver Brown,['F17'],,,,
+I182547685784,,Young,['F107'],,,,
+I182547686288,Bettye,CAROTHERS,"['F288', 'F10']",abt 1909,Mississippi,,
+I182547686289,Tommie,Blanchard,['F10'],abt 1925,Mississippi,,
+I182547686290,George,Blanchard,['F10'],abt 1932,Mississippi,,
+I182547686291,Gillie,Blanchard,['F10'],abt 1935,Mississippi,,
+I182547686292,James,Blanchard,['F10'],abt 1948,Mississippi,,
+I182547686293,Girtrude,Blanchard Waddell,['F10'],abt 1929,Mississippi,,
+I182547686294,Bettye Jean,Blanchard Clemons,['F10'],abt 1939,Mississippi,,
+I182547686324,Tommie,BLANCHARD,"['F381', 'F308']",Abt 1877,Mississippi,,
+I182547686343,Emma,ROSS,['F308'],,,,
+I182547687010,Willis,CAROTHERS,"['F209', 'F288']",January 1858,"West Point, Clay, Mississippi, USA",abt 1939,"West Point, Clay, Mississippi, USA"
+I182547687015,Martha,JAMISON,['F288'],Feb 1868,"Mississippi, USA",,"Mississippi, USA"
+I182547687044,William Baskin,Carothers,"['F233', 'F209']",1832,"Alabama, United States of America",26 October 1897,United States of America
+I182547687046,Lydia,Lenoir,"['F209', 'F395']",Abt 1824,Mississippi,,"Muldon, Monroe, Mississippi, USA"
+I182547687107,James Neely,Carothers (Cawthers),['F233'],13 Nov 1805,"Union County, South Carolina, USA",25 May 1891,"Houston, Chickasaw County, Mississippi, USA"
+I182547687122,Mary Stuart,Baskin,['F233'],3 Jun 1810,"Abbeville, Abbeville, South Carolina, USA",3 Oct 1857,"Houston, Chickasaw, Mississippi, USA"
+I182547687218,Mary Eliza,Oliver Hughes,['F115'],7 Mar 1942,"West Point, Mississippi",14 Apr 1996,
+I182547687219,Annie,Oliver,['F115'],abt 1944,Mississippi,,
+I182547687222,M Fannie,Oliver,['F115'],abt 1946,Mississippi,,
+I182547687223,Ulissias,Oliver,['F115'],abt 1949,Mississippi,,
+I182547688707,Elsie,Lenoir,['F395'],Abt 1864,Mississippi,,
+I182547688708,Eddie,Lenoir,['F395'],Abt 1871,Mississippi,,
+I182547691198,Sam P,PERRY,['F212'],1850,Mississippi,,
+I182547691199,Mary L,OAKS,['F212'],1885,Mississippi,,
+I182547691535,John A,Perry,['F212'],1908,Mississippi,,
+I182548075087,Auston,Corothers,['F288'],Nov 1887,"Mississippi, USA",,
+I182548075088,George,CAROTHERS,"['F288', 'F227']",Sep 1889,"Mississippi, USA",,
+I182548075089,Ofelia,Corothers,['F288'],Jun 1893,"Mississippi, USA",,
+I182548075090,Zelphy,Corothers,['F288'],Jun 1895,"Mississippi, USA",,
+I182548075091,Isham,Corothers,['F288'],Jun 1897,"Mississippi, USA",,
+I182548075092,Elsie,Corothers,['F288'],Mar 1899,"Mississippi, USA",,
+I182548075226,Lady B,Corothers,['F227'],abt 1928,Mississippi,,
+I182548075227,Martha,CAROTHERS,"['F227', 'F230']",abt 1932,Mississippi,,
+I182548075228,Nancy,EWING,['F227'],abt 1897,Mississippi,,
+I182548075344,Glover B,ROBINSON,['F230'],,,,
+I182548075375,T M,ROBINSON,['F230'],,,,
+I182548076417,C,RAINEY,"['F86', 'F378']",,,,
+I182548076541,Starling,RAINEY,['F86'],,,,
+I182548076583,Sandra Lee,LENOIR,"['F161', 'F86']",abt 1913,Mississippi,,
+I182548076821,Sandy,LENOIR,"['F175', 'F161']",May 1884,"Aberdeen, Monroe, Mississippi, USA",24 Jun 1960,"Aberdeen, Monroe, Mississippi, USA"
+I182548076832,Sandy,Lenoir,['F175'],1845,"Aberdeen, Monroe, Mississippi, USA",,"Monroe County, Mississippi, USA"
+I182548076838,Darkus,Griffin,['F175'],1850,"Monroe, Mississippi, United States",,
+I182548077298,YOLANDA,LENOIR,['F264'],15 Mar 1968,"Stockton, San Joaquin, California, USA",,
+I182548077370,Edna Earling,Ivy,['F264'],14 Jul 1944,Michigan,abt 1998,"Stockton, San Joaquin, California, USA"
+I182548103728,Robert Alexander,LENOIR,"['F104', 'F264']",8 Sep 1936,"Clay County, Mississippi",11 Nov 2001,"Tupelo, Lee County, Mississippi, United States of America"
+I182548114536,Henry James,LENOIR,"['F53', 'F104']",11 August 1911,,9 January 1978,
+I182548114537,Orene,MARLELE,['F104'],,,,
+I182548114661,Richmond,Lenoir,"['F45', 'F53']",abt 1870,Mississippi,,
+I182548114673,"Mary ""Mamie""",Randle,['F53'],Oct 1872,"Mississippi, USA",,
+I182548114685,Jordan Judge,Lenoir,"['F166', 'F45']",Jan 1838,Mississippi,,"Texas, USA"
+I182548114694,"Rosetta ""Rose""",() Lenoir,['F45'],abt 1838,Mississippi,,"Monroe County, Mississippi, USA"
+I182548114748,William Thomas,Lenoir,['F166'],1811,"Pearl River, Marion, Mississippi, United States",May 1860,"Marion, Mississippi, United States"
+I182548114760,Mary Elizabeth,Blanchard,"['F284', 'F166']",14 June 1810,,15 July 1894,"Aberdeen, Monroe County, Mississippi, United States of America"
+I182548115044,Absalom,Blanchard,['F284'],11 November 1771,"Richland County, South Carolina, United States of America",10 September 1851,"Monroe County, Mississippi, United States of America"
+I182548115062,Sarah,Gwyn,['F284'],1770,"Gloucester, Gloucester, Virginia, United States",1817,"Pearl River, Mississippi, United States"
+I182548115553,Sally,() BLANCHARD,['F381'],Abt 1843,Mississippi,,
+I182548115555,Lige,Blanchard,['F381'],Abt 1867,Mississippi,,
+I182548115556,Kizzy,Blanchard,['F381'],Abt 1869,Mississippi,,
+I182548115557,Marthy A,Blanchard,['F381'],Abt 1871,Mississippi,,
+I182548115558,Burk,Blanchard,['F381'],Abt 1872,Mississippi,,
+I182548115778,Eliza,Blanchard,['F381'],abt 1864,Mississippi,,
+I182548181109,HENRY,MOTON,['F171'],,,,
+I182548181282,,WILLIS,['F171'],,,,
+I182548181290,,DIXON,"['F396', 'F171']",,,,
+I182548181316,Louise,LENOIR,"['F169', 'F396']",22 Jun 1943,"Gibson, Monroe, Mississippi, USA",2 Dec 2008,"Tupelo, Lee, Mississippi, USA"
+I182548182327,Alex,LENOIR,['F169'],abt 1920,Mississippi,,
+I182548182328,Fannie,WHITFIELD,['F169'],abt 1919,Mississippi,,
+I182548182330,Alex,Lenoir,['F169'],abt 1932,Mississippi,,
+I182548182331,Willie,Lenoir,['F169'],abt 1934,Mississippi,,
+I182548182332,Annie Sue,Lenior,['F169'],abt 1936,Mississippi,,
+I182548182333,Mary Lee,Lenior,['F169'],abt 1937,Mississippi,,
+I182548182336,Mary Ethyly,Lenior Evans,['F169'],1 Dec 1940,"Aberdeen, Monroe, Mississippi, USA",27 Dec 1999,
+I182548182337,L C,Lenior,['F169'],abt 1941,Tennessee,,
+I182548182343,Annie Mae,Lenior,['F169'],abt 1945,Mississippi,,
+I182548182345,Fannie Lee,Lenior,['F169'],abt 1946,Mississippi,,
+I182548182350,Rosabell,Lenior,['F169'],abt 1949,Mississippi,,
+I182548183129,RICHARD,SPICER,['F378'],,,,
+I182548183896,Jordan Judge,LENOIR,"['F45', 'F254']",Apr 1884,"Muldon, Monroe, Mississippi, USA",,
+I182548186652,Sarah Lou,McMILLIAN,"['F267', 'F254']",Feb 1879,Mississippi,,
+I182548186755,Alexander,LENOIR,"['F254', 'F203']",6 Jan 1893,"Prairie, Monroe, Mississippi, USA",3 Nov 1970,"Aberdeen, Monroe, Mississippi, USA"
+I182548186864,Essie,HENRY,['F161'],abt 1881,Mississippi,,
+I182548187061,Audrie,Lenoir,['F161'],abt 1905,Mississippi,,
+I182548187062,Lilly M,Lenoir,['F161'],abt 1906,Mississippi,,
+I182548187064,Minnie,LENOIR,"['F161', 'F203']",abt 1915,Mississippi,,
+I182548187861,T,LENOIR,['F203'],,,,
+I182548196735,Missouri Ellen,Butler,"['F109', 'F406']",1878,"Madison County, Arkansas",1921,
+I182548196759,Edward Porter,Butler,['F109'],18 Oct 1857,"Shannon County, Missouri, USA",25 Jul 1939,"Agra, Lincoln, Oklahoma, USA"
+I182548196770,Martha,Bowen,['F109'],25 Jan 1860,"Barry County, Missouri, USA",25 January 1891,"Exeter, Barry County Missouri. Hadley Cemetery"
+I182548197797,EVON,YERGER Graves Holmes,['F334'],22 Dec 1955,"Sacramento, Sacramento, California, USA",,"Sacramento County, California, USA"
+I182548233192,Carl Henry,YERGER,"['F90', 'F334']",25 Jan 1923,"Arkansas City, Arkansas, Arkansas, USA",27 Aug 2005,"Sacramento County, California, USA"
+I182548233207,Joan Anne,ROBINSON,"['F51', 'F334', 'F204', 'F418']",18 Dec 1939,Mississippi,25 Nov 2010,"Sacramento County, California, USA"
+I182548233464,J B,ROBINSON,"['F366', 'F51']",20 Mar 1913,"Youngtown, Ohio, USA",18 Nov 1990,Sacramento
+I182548233967,,JONES,['F366'],,,,
+I182548234135,Elease,Robinson,"['F366', 'F165']",abt 1904,Mississippi,,
+I182548234882,Williard,Holman,['F204'],,,,
+I182548235015,Charles J,Yerger,['F334'],,,,
+I182548235039,Nadine,Holman,['F204'],,,,
+I182548235053,Kirk,Holman,['F204'],,,,
+I182548235096,Carl,Yerger,['F334'],,,,
+I182548235117,Donna,Yerger,['F334'],,,,
+I182548235132,Marvin,Yerger,['F334'],,,,
+I182548235167,Lorraine,() DeWitt,['F418'],,,,
+I182548235188,Johnny W,Yerger,['F334'],,,,
+I182548235284,Mary Eliza,Robinson Beasley,['F51'],abt 1942,Mississippi,,
+I182548235304,Vivian K,Robinson,['F51'],abt 1944,California,,
+I182548235509,Shirley Temple,Robinson,['F51'],7 Sep 1936,Mississippi,22 Oct 1953,Sacramento
+I182548235862,Mary,BANKS,['F51'],abt 1917,Mississippi,Bef. 1947,"Jackson, Hinds, Mississippi, USA"
+I182548236559,,Lattimore\Slagmore,['F165'],,,,
+I182548237394,Alonzo,Watson,['F90'],abt 1918,Arkansas,,
+I182548237395,Emma,BUTLER,"['F88', 'F89', 'F90']",abt 1904,Arkansas,,
+I182548237396,Vance,Threadgill,['F88'],abt 1892,Arkansas,,
+I182548237662,Dorothy M,Williams,['F89'],abt 1932,Arkansas,,
+I182548237663,Rhodell,Williams,['F89'],abt 1898,Louisiana,,
+I182548237909,Carl,YERGER,['F90'],,,,
+I182548258231,SHARLENE,GILL PEOPLES,['F140'],,,,
+I182548259284,John Benjamin,GILL,"['F389', 'F140']",25 Nov 1944,"Wardell, Pemiscot, Missouri, USA",15 Oct 1994,"San Bernardino, San Bernardino, California, USA"
+I182548259299,Vivian Cynthia,THOMAS,"['F174', 'F140']",17 Feb 1950,,,
+I182548259524,Lewis,THOMAS,"['F275', 'F174']",20 Jan 1915,"Hazen, Prairie, Arkansas, USA",1972,"Chicago, Cook, Illinois, USA"
+I182548260134,Isabell,VAUGHN,"['F335', 'F174']",2 Dec 1926,"Sunflower, Sunflower, Mississippi, USA",17 Jan 2024,"Las Vegas, Clark, Nevada, USA"
+I182548260440,Colombus,Mitchell,"['F274', 'F277']",abt 1887,North Carolina,,
+I182548260441,Louvenia,McLAMORE,"['F276', 'F275', 'F274']",1886,Arkansas,,
+I182548260444,Booker T,Mitchell,['F274'],abt 1923,Arkansas,,
+I182548260445,Columbus,Mitchell,['F274'],abt 1921,Arkansas,,
+I182548260447,Nathan,Mitchell,['F277'],abt 1913,Arkansas,,
+I182548260449,Mary E,Mitchell,['F277'],abt 1914,Arkansas,,
+I182548260450,James,Thomas,['F275'],Abt. Nov 1909,Arkansas,,
+I182548277204,Lawson T,THOMAS,"['F306', 'F275']",5 Dec 1860,Prairie Co Arkansas,8 Oct 1914,"Hazen, Prairie, Arkansas, USA"
+I182548278101,Ivery,HENRY,['F276'],abt 1884,,,
+I182548278322,Ivory,Henry,['F276'],1906,Arkansas,,
+I182548278605,Lona,Mitchell,['F277'],abt 1905,Arkansas,,
+I182548278606,Pearlie,Mitchell,['F277'],abt 1907,Arkansas,,
+I182548278607,Theolia,Mitchell,['F277'],abt 1912,Arkansas,,
+I182548278608,Roosavelt,Mitchell,['F277'],abt 1911,Arkansas,,
+I182548279041,Ida,Jones,['F277'],1889,North Carolina,,
+I182548279241,Buddie,Mitchell,['F274'],abt 1922,Arkansas,,
+I182548280243,Nelson,THOMAS,['F306'],abt 1814,North Carolina,,
+I182548280244,Lucinda,HAMILTON,['F306'],abt 1816,Tennessee,,
+I182548280312,Louis,Thomas,['F306'],abt 1852,Tennessee,,
+I182548280314,Andrew,Thomas,['F306'],abt 1854,Tennessee,,
+I182548280315,Nathan,Thomas,['F306'],abt 1856,Arkansas,,
+I182548281025,Pearline,JAMES,['F389'],,,,
+I182548281206,Joseph,VAUGHN,['F335'],,,,
+I182548281341,Lally,McFARLAND,"['F128', 'F335']",Jan 1878,"Mississippi, USA",17 Feb 1960,"Chicago, Cook, Illinois, USA"
+I182548282316,Lillian,Vaughn,"['F335', 'F83']",abt 1903,Mississippi,,
+I182548282430,Haywood,Walker,['F83'],abt 1898,Mississippi,,
+I182548282434,Randolph,Walker,['F83'],abt 1931,Mississippi,,
+I182548282438,Francis,Walker,['F83'],abt 1934,Mississippi,,
+I182548282441,Tommy,Walker,['F83'],abt 1937,Mississippi,,
+I182548282814,Dock,Purnell,['F128'],Mar 1880,"Mississippi, USA",,
+I182548282815,Thos,Purnell,['F128'],Apr 1898,"Mississippi, USA",,
+I182548282816,Lilmon,Purnell,['F128'],Aug 1899,"Mississippi, USA",,
+I182550136390,Manerva,Blanchard,"['F412', 'F267']",abt 1858,"Monroe County, Mississippi, USA",,
+I182550136397,Henderson,McMillion,['F267'],abt 1859,Mississippi,,
+I182550136430,Niece,Blanchard,['F412'],Jan 1835,Muldon Mississippi,Aft. 1900,"Prairie, Monroe County, Mississippi"
+I182551018094,Sarah Adeline Elledge,Thompson,['F257'],16 January 1850,"North Carolina, United States of America",19 June 1926,"Oklahoma, United States of America"
+I182551018103,Lucy Ann,Staples,['F63'],22 May 1822,"Virginia, USA",29 Nov 1900,"Greenville, Muhlenberg, Kentucky, USA"
+I182551018138,Stanley,Cordrey,['F237'],1894,Kentucky,,
+I182551018139,George,Cordrey,['F237'],1872,Kentucky,,
+I182551018247,Daniel,Tubbs,['F238'],abt 1837,New York,,
+I182551018248,Francis,Tubbs,['F238'],abt 1839,New York,,
+I182551018249,Charles,Tubbs,['F238'],abt 1844,New York,,
+I182551018250,Amanda,Tubbs,['F238'],abt 1847,New York,,
+I182551018251,Jane M,() Tubbs,['F238'],abt 1816,New York,,
+I182551019655,Marvin,Bustard,['F136'],abt 1933,Michigan,,
+I182551020106,Charles William,SCHWENN,"['F138', 'F222']",22 Sep 1950,"Redfield, Spink, South Dakota, USA",16 May 1998,"Othello, Adams, Washington, USA"
+I182551020932,Charles F,SCHWENN,"['F344', 'F138']",3 Jan 1919,"Athol, Spink, South Dakota, USA",,
+I182551020941,Lillian M,BRASTEN,"['F349', 'F138']",18 Sep 1927,"Bryant, Hamlin, South Dakota, USA",,
+I182551021401,Fred Martin,Schwenn,"['F320', 'F344']",29 Jul 1887,"Spink, South Dakota, USA",16 Nov 1960,"Los Angeles, Los Angeles, California, USA"
+I182551021406,Etta Elizabeth,Bostic,"['F321', 'F344']",8 Dec 1885,"Denver, Rock, Minnesota",19 Nov 1962,"Orange County, California, USA"
+I182551021410,Henry Theodore,Braaten,"['F332', 'F349']",23 Aug 1897,"Cleveland, Hamlin, South Dakota, USA",27 Jun 1960,"Bryant, Hamlin, South Dakota, USA"
+I182551021415,Ethel Bernice,Horswill,"['F293', 'F349']",12 Sep 1901,"Cleveland, Hamlin, South Dakota, USA",26 Nov 1988,"Lake Preston, Kingsbury, South Dakota, USA"
+I182551021436,Carl Friedrich Gottfried,Schwenn,['F320'],12 Aug 1852,"Prussia, Germany","October 10, 1927","Spink, South Dakota, USA"
+I182551021444,Louisa,Renicke,['F320'],04/14/1855,"Woodland, Sauk, Wisconsin, United States",21 May 1928,"Athol, Spink, South Dakota, USA"
+I182551021447,Elwin Earon,Bostic,['F321'],9 Jul 1860,"Wisconsin, USA",30 Jun 1929,"Sioux Falls, Minnehaha, South Dakota, USA"
+I182551021457,Caroline \ Carrie Ella,Hovey,['F321'],26 Apr 1865,"Wisconsin, USA",27 Aug 1934,"Rock, Minnesota, USA"
+I182551021481,Jul K,Braaten,['F332'],4 September 1858,"Braaten, Slidre, Vestre Slidre, Oppland, Norway",13 March 1933,"Hamlin, Hamlin, South Dakota, United States"
+I182551021496,Ambjørg ‘Emma’,Thomasdatter Gryte,['F332'],23 Aug 1868,"Bøe Nordre, Vang, Valdres, Oppland, Norway",19 March 1948,"Hamlin County, South Dakota, USA"
+I182551021510,Joseph Alfred,Horswill,['F293'],28 March 1859,"Irving, Jackson, Wisconsin, United States,",6 Sep 1941,"Watertown, Codington, South Dakota, USA"
+I182551021514,Julia Anna,Wason,['F293'],5 April 1858,"Gloucester, Essex, Massachusetts, USA",18 Jan 1929,"Codington, South Dakota, United States"
+I182551021598,Kathy,Bustard,"['F121', 'F96']",abt 1955,"Douglas, Nebraska, USA",,
+I182551021606,Martha Mary,Bustard,"['F121', 'F102']",23 Feb 1965,,,
+I182551022084,Stephen Paul,Noll,['F102'],,,,
